@@ -1,0 +1,7 @@
+[build]
+    publish = "public"
+
+[[redirects]]
+    from = "/"
+    to = "/public/quotes.json"
+    status = 302
