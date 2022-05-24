@@ -305,6 +305,12 @@
       "name": "Princess Irulan",
       "line": "What do you despise? By this are you truly known.",
       "source": "Dune"
+    },
+    {
+      "id": 51,
+      "name": "Philip K Dick",
+      "line": "Imagine being sendtient but not alive. Seeing and even knowing, but not alive. Just looking out. Recognizing but not being alive. A person can die and still go on. Sometimes what looks out at you from a person's eyes maybe died back in childhood.",
+      "source": "A Scanner Darkly"
     }
   ]
 }
