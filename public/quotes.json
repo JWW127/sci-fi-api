@@ -323,6 +323,30 @@
       "name": "R0-GR Battle Droid",
       "line": "Roger, Roger",
       "source": "Star Wars, The Clone Wars"
+    },
+    {
+      "id": 54,
+      "name": "Salvor Hardin",
+      "line": "Violence is the last refuge of the incompetent.",
+      "source": "Foundation"
+    },
+    {
+      "id": 55,
+      "name": "Dr. Seldon",
+      "line": "Scientific truth is beyond loyalty and disloyalty.",
+      "source": "Foundation"
+    },
+    {
+      "id": 57,
+      "name": "Psychohistorians",
+      "line": "Childness comes almost as naturally to a man as to a child.",
+      "source": "Foundation"
+    },
+    {
+      "id": 58,
+      "name": "Isaac Asimov",
+      "line": "When stupidity is considered patriotism, it is unsafe to be intelligent.",
+      "source": "Foundation"
     }
   ]
 }
