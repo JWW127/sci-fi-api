@@ -116,9 +116,9 @@
     },
     {
       "id": 20,
-      "name": "Darrow",
-      "line": "Death is easy when you've already tried to find it.",
-      "source": "Red Rising"
+      "name": "Arthur C Clarke",
+      "line": "Evil men could be destroyed, but nothing could be done with good men who were deluded.",
+      "source": "Childhood's End"
     },
     {
       "id": 21,
@@ -353,6 +353,18 @@
       "name": "Isaac Asimov",
       "line": "When stupidity is considered patriotism, it is unsafe to be intelligent.",
       "source": "Foundation"
+    },
+    {
+      "id": 59,
+      "name": "George Orwell",
+      "line": "War is peace.Freedom is slavery.Ignorance is strength.",
+      "source": "1984"
+    },
+    {
+      "id": 60,
+      "name": "George Orwell",
+      "line": "Who controls the past controls the futute. Who controls the present controls the past.",
+      "source": "1984"
     }
   ]
 }
