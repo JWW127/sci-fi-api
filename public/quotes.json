@@ -357,7 +357,7 @@
     {
       "id": 59,
       "name": "George Orwell",
-      "line": "War is peace.Freedom is slavery.Ignorance is strength.",
+      "line": "War is peace. Freedom is slavery. Ignorance is strength.",
       "source": "1984"
     },
     {
@@ -365,6 +365,12 @@
       "name": "George Orwell",
       "line": "Who controls the past controls the futute. Who controls the present controls the past.",
       "source": "1984"
+    },
+    {
+      "id": 61,
+      "name": "Ender",
+      "line": "There are times when the world is rearranging itself, and at times like that, the right words can change the world.",
+      "source": "Ender's Game"
     }
   ]
 }
