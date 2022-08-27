@@ -371,6 +371,12 @@
       "name": "Ender",
       "line": "There are times when the world is rearranging itself, and at times like that, the right words can change the world.",
       "source": "Ender's Game"
+    },
+    {
+      "id": 62,
+      "name": "Mal",
+      "line": "Admit it! You don't believe in one reality anymore",
+      "source": "Inception"
     }
   ]
 }
