@@ -383,6 +383,12 @@
       "name": "Cobb",
       "line": "You're waiting for a train",
       "source": "Inception"
+    },
+    {
+      "id": 64,
+      "name": "Arthur C Clarke",
+      "line": "It is a bitter thought, but you must face it. The planets you may one day possess. But the stars are not for man.",
+      "source": "Childhood's End"
     }
   ]
 }
