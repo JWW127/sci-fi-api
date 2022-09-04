@@ -389,6 +389,12 @@
       "name": "Arthur C Clarke",
       "line": "It is a bitter thought, but you must face it. The planets you may one day possess. But the stars are not for man.",
       "source": "Childhood's End"
+    },
+    {
+      "id": 65,
+      "name": "Michele",
+      "line": "For ... years men dreamed of pacts with demons. Only now are such things possible.",
+      "source": "NeuroMancer"
     }
   ]
 }
