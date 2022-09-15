@@ -431,6 +431,12 @@
       "name": "Ursula LeGuin",
       "line": "When action grows unprofitable, gather information; when information grows unprofitable, sleep.",
       "source": "The Left Hand of Darkness"
+    },
+    {
+      "id": 72,
+      "name": "George Orwell",
+      "line": "Nothing was your own except the few cubic centimetres inside your skull. ",
+      "source": "1984"
     }
   ]
 }
