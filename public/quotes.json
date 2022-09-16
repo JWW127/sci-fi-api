@@ -437,6 +437,12 @@
       "name": "George Orwell",
       "line": "Nothing was your own except the few cubic centimetres inside your skull. ",
       "source": "1984"
+    },
+    {
+      "id": 73,
+      "name": "William Gibson",
+      "line": "When the past is always with you, it may as well be present; and if it is present, it will be future as well.",
+      "source": "Neuroancer"
     }
   ]
 }
