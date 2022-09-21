@@ -473,6 +473,18 @@
       "name": "Jack Harper",
       "line": "If we have souls, they're made of the love we share. Undimmed by time, unbound by death.",
       "source": "Oblivion"
+    },
+    {
+      "id": 79,
+      "name": "Neil",
+      "line": "You have a future in the past. Years ago for me, years from now for you.",
+      "source": "TeneT"
+    },
+    {
+      "id": 80,
+      "name": "Protagonist",
+      "line": "We live in a twilight world.",
+      "source": "TeneT"
     }
   ]
 }
