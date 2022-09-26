@@ -497,6 +497,18 @@
       "name": "Douglas Adams",
       "line": "Time is an illusion. Lunchtime doubly so.",
       "source": "The Hitchhiker's Guide to the Galaxy"
+    },
+    {
+      "id": 83,
+      "name": "Leeloo",
+      "line": "Mulit Pass",
+      "source": "Fifth Element"
+    },
+    {
+      "id": 84,
+      "name": "Cooper",
+      "line": "Newton’s third law. You gotta leave something behind.",
+      "source": "Interstellar"
     }
   ]
 }
