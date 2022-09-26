@@ -491,6 +491,12 @@
       "name": "k",
       "line": "All the best memories are hers",
       "source": "Blade Runner 2049"
+    },
+    {
+      "id": 82,
+      "name": "Douglas Adams",
+      "line": "Time is an illusion. Lunchtime doubly so.",
+      "source": "The Hitchhiker's Guide to the Galaxy"
     }
   ]
 }
