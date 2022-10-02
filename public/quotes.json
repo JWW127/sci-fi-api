@@ -509,6 +509,12 @@
       "name": "Cooper",
       "line": "Newton’s third law. You gotta leave something behind.",
       "source": "Interstellar"
+    },
+    {
+      "id": 85,
+      "name": "Louise",
+      "line": "I used to think this was the beginning of your story. Memory is a strange thing. It doesn't work like I thought it did. We are so bound by time, by its order.",
+      "source": "Arrival"
     }
   ]
 }
