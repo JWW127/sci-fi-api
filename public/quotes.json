@@ -523,6 +523,36 @@
       "source": "Star Trek 2009"
     },
     {
+      "id": 86,
+      "name": "Tony Stark",
+      "line": "Let's face it, this is not the worst thing you've caught me doing.",
+      "source": "Iron Man"
+    },
+    {
+      "id": 87,
+      "name": "The Bartender",
+      "line": "The one thing that this job has taught me is that truth is stranger than fiction.",
+      "source": "Predestination"
+    },
+    {
+      "id": 88,
+      "name": "Dr. Emmett Brown",
+      "line": "Marty! What in the name of Sir Isaac H. Newton happened here?",
+      "source": "Back To The Future II"
+    },
+    {
+      "id": 89,
+      "name": "Martin Collins",
+      "line": "The right information at the right time is deadlier than any weapon.",
+      "source": "Westworld"
+    },
+    {
+      "id": 90,
+      "name": "Jonathan Byres",
+      "line": "Nobody normal ever accomplished anything meaningful in this world.",
+      "source": "Stranger Things"
+    },
+    {
       "id": 91,
       "name": "Nemo Nobody aged 118",
       "line": "Every path is the right path. Everything could've been anything else. And it would have just as much meaning.",
