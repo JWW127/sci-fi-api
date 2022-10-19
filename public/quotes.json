@@ -522,7 +522,7 @@
       "line": "Your father was captain of a starship for 12 minutes. He saved 800 lives, including your Mother's. And yours. I dare you to do better.",
       "source": "Star Trek 2009"
     },
-     {
+    {
       "id": 91,
       "name": "Nemo Nobody aged 118",
       "line": "Every path is the right path. Everything could've been anything else. And it would have just as much meaning.",
@@ -551,6 +551,36 @@
       "name": "Nemo Nobody aged 118",
       "line": "It should be written on every schoolroom blackboard: life is a playground or nothing.",
       "source": "Mr. Nobody"
+    },
+    {
+      "id": 96,
+      "name": "Taylor",
+      "line": "I can't help thinking somewhere in the universe there has to be something better than man. Has to be.",
+      "source": "Planet of the Apes"
+    },
+    {
+      "id": 97,
+      "name": "Thanos",
+      "line": "You could not live with your own failure. Where did that bring you? Back to me.",
+      "source": "Avengers: Endgame"
+    },
+    {
+      "id": 98,
+      "name": "Luke Skywalker",
+      "line": "No. Strike me down in anger and I'll always be with you. Just like your father.",
+      "source": "Star Wars: The Last Jedi"
+    },
+    {
+      "id": 99,
+      "name": "Tony Stark",
+      "line": "The Avengers. That's what we call ourselves; we're sort of like a team. 'Earth's Mightiest Heroes' type thing.",
+      "source": "The Avengers"
+    },
+    {
+      "id": 100,
+      "name": "Peter Quill",
+      "line": "Don't forget, I'm half-human. So that fifty percent of me that's stupid, that's a hundred percent you.",
+      "source": "Avengers: Infinity War"
     }
   ]
 }
