@@ -620,9 +620,15 @@
     },
     {
       "id": 102,
-      "name": "Apollonius Au Wrath",
+      "name": "Apollonius Au Valii-Rath",
       "line": "The mind is its own place, and in itself can make a heaven of hell, or a hell of heaven.",
       "source": "Red Rising, Iron Gold"
+    },
+    {
+      "id": 103,
+      "name": "Jay",
+      "line": "We don't need AIs to destroy us, we have our own arrogance",
+      "source": "Ex-Machina"
     }
   ]
 }
