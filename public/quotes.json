@@ -634,7 +634,13 @@
       "id": 104,
       "name": "Tannhaus",
       "line": "The beginning determines the end, which determines the beginning.",
-      "source": "Ex-Machina"
+      "source": "Dark"
+    },
+    {
+      "id": 105,
+      "name": "Mikkel",
+      "line": "Dad, the question isn't how, the question is when",
+      "source": "Dark"
     }
   ]
 }
