@@ -501,7 +501,7 @@
     {
       "id": 83,
       "name": "Leeloo",
-      "line": "Mulit Pass",
+      "line": "Multi Pass",
       "source": "Fifth Element"
     },
     {
@@ -640,6 +640,12 @@
       "id": 105,
       "name": "Mikkel",
       "line": "Dad, the question isn't how, the question is when",
+      "source": "Dark"
+    },
+    {
+      "id": 106,
+      "name": "Isaac Newton via Dark",
+      "line": "What we know is a drop, What we don't is an ocean.",
       "source": "Dark"
     }
   ]
