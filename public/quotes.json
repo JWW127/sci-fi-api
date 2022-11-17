@@ -677,6 +677,24 @@
       "name": "Deckard",
       "line": "Sometimes to love someone, you have to be a stranger",
       "source": "Blade Runner 2049"
+    },
+    {
+      "id": 112,
+      "name": "1899 Narrator",
+      "line": "The Brain is wider than the sky",
+      "source": "1899"
+    },
+    {
+      "id": 113,
+      "name": "1899 Narrator",
+      "line": "The Brain is deeper than the ocean",
+      "source": "1899"
+    },
+    {
+      "id": 114,
+      "name": "Mrs. Wilson",
+      "line": "They show you the world, then they tell you that you can't have it",
+      "source": "1899"
     }
   ]
 }
