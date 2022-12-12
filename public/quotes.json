@@ -731,6 +731,24 @@
       "name": "Atlas Au Raa",
       "line": "For love, death is hardly the limit",
       "source": "Red Rising, Dark Age"
+    },
+    {
+      "id": 121,
+      "name": "Sergeant Farell",
+      "line": "I see everyone is having a productive morning. You know it gives me a swell of pride knowing soldiers or your... caliber will be leading the charge tomorrow. Tip of the spear. Edge of the knife. Crack of my ass!",
+      "source": "Edge of Tomorrow"
+    },
+    {
+      "id": 122,
+      "name": "Sergeant Farell",
+      "line": "Battle is the Great Redeemer. It is the fiery crucible in which true heroes are forged. The one place where all men truly share the same rank, regardless of what kind of parasitic scum they were going in.",
+      "source": "Edge of Tomorrow"
+    },
+    {
+      "id": 123,
+      "name": "Rita Vrataski",
+      "line": "Come find me when you wake up",
+      "source": "Edge of Tomorrow"
     }
   ]
 }
