@@ -1,772 +1,778 @@
 {
-  "quotes": [
-    {
-      "id": 1,
-      "name": "Darrow",
-      "line": "Sharpened by hate. Strengthened by love.",
-      "source": "Red Rising"
-    },
-    {
-      "id": 2,
-      "name": "Darrow",
-      "line": "Funny thing, watching gods realize they've been mortal all along.",
-      "source": "Red Rising"
-    },
-    {
-      "id": 3,
-      "name": "Darrow",
-      "line": "Man cannot be freed by the same injustice that enslaved it.",
-      "source": "Red Rising"
-    },
-    {
-      "id": 4,
-      "name": "Darrow",
-      "line": "You do not follow me because I am the strongest. Pax is. You do not follow me because I am the brightest. Mustang is. You follow me because you do not know where you are going. I do.",
-      "source": "Red Rising"
-    },
-    {
-      "id": 5,
-      "name": "Darrow",
-      "line": "I’m a sheep wearing wolves’ clothing in a pack of wolves.",
-      "source": "Red Rising"
-    },
-    {
-      "id": 6,
-      "name": "Darrow",
-      "line": "Death is easy when you've already tried to find it.",
-      "source": "Red Rising"
-    },
-    {
-      "id": 7,
-      "name": "Nero au Augustus",
-      "line": "It is not funny. Steel is power. Money is power. But of all things in all the worlds, words are power",
-      "source": "Red Rising"
-    },
-    {
-      "id": 8,
-      "name": "Monologue",
-      "line": "And I wonder, in my last moments, if the planet does not mind that we wound her surface or pillage her bounty, because she knows we silly warm things are not even a breath in her cosmic life. We have grown and spread, and will rage and die. And when all that remains of us is our steel monuments and plastic idols, her winds will whisper, her sands will shift, and she will spin on and on, forgetting about the bold, hairless apes who thought they deserved immortality.",
-      "source": "Red Rising"
-    },
-    {
-      "id": 9,
-      "name": "Atlas au Raa",
-      "line": "I fear a man who believes in good, for he can excuse any evil",
-      "source": "Red Rising"
-    },
-    {
-      "id": 10,
-      "name": "Romulus au Raa",
-      "line": "I will love you till the sun dies, and when it does, I will love you in the dark.",
-      "source": "Red Rising"
-    },
-    {
-      "id": 11,
-      "name": "Darrow",
-      "line": "You are a worm who thought himself a serpent just because you slither.",
-      "source": "Red Rising"
-    },
-    {
-      "id": 12,
-      "name": "Darrow",
-      "line": "Tradition is the crown of the tyrant.",
-      "source": "Red Rising"
-    },
-    {
-      "id": 13,
-      "name": "Sefi",
-      "line": "Life is meant to be felt. Else why live? Valleys make the mountains.",
-      "source": "Red Rising"
-    },
-    {
-      "id": 14,
-      "name": "Lysander",
-      "line": "Is a man a coward if he realizes that bravery is just a myth the old tell the young so they line up for the meatgrinder?",
-      "source": "Red Rising"
-    },
-    {
-      "id": 15,
-      "name": "Lysander",
-      "line": "Only humanity could grasp the stars and them slip through its fingers for the pettiness in its heart.",
-      "source": "Red Rising, Dark Age"
-    },
-    {
-      "id": 16,
-      "name": "Darrow",
-      "line": "I once thought the greatest sin of war was violence. It isn't. The greatest sin is it requires good men to become practical.",
-      "source": "Red Rising, Dark Age"
-    },
-    {
-      "id": 17,
-      "name": "Darrow",
-      "line": "A moving mind is always fed. At rest, mine eats itself.",
-      "source": "Red Rising, Dark Age"
-    },
-    {
-      "id": 18,
-      "name": "Virginia",
-      "line": "I fear you think your strength lies in your darkness. But the measure of a man is not the fear he sows in his enemies. It is the hope he gives his friends.",
-      "source": "Red Rising, Dark Age"
-    },
-    {
-      "id": 19,
-      "name": "Octavia",
-      "line": "The tragedy of the gifted is the belief they are entitled to greatness, Lysander. As a human, you are only entitled only to death.",
-      "source": "Red Rising, Dark Age"
-    },
-    {
-      "id": 20,
-      "name": "Arthur C Clarke",
-      "line": "Evil men could be destroyed, but nothing could be done with good men who were deluded.",
-      "source": "Childhood's End"
-    },
-    {
-      "id": 21,
-      "name": "Lyria",
-      "line": "They planted us in stones, watered us with pain, and now marvel that we have thorns.",
-      "source": "Red Rising, Iron Gold"
-    },
-    {
-      "id": 22,
-      "name": "Dan Simmons",
-      "line": "It occurs to me that our survival may depend upon our talking to one another.",
-      "source": "Hyperion Cantos"
-    },
-    {
-      "id": 23,
-      "name": "Dan Simmons",
-      "line": "In such seconds of decision entire futures are made.",
-      "source": "Hyperion Cantos"
-    },
-    {
-      "id": 24,
-      "name": "Dan Simmons",
-      "line": "In twentieth-century Old Earth, a fast food chain took dead cow meat, fried it in grease, added carcinogens, wrapped it in petroleum-based foam, and sold nine hundred billion units. Human beings. Go figure.",
-      "source": "Hyperion Cantos"
-    },
-    {
-      "id": 25,
-      "name": "Dan Simmons",
-      "line": "Words are the only bullets in truth's bandolier. And poets are the snipers.",
-      "source": "Hyperion Cantos"
-    },
-    {
-      "id": 26,
-      "name": "Dan Simmons",
-      "line": "The whole planet reeks of mysticism without revelation.",
-      "source": "Hyperion Cantos"
-    },
-    {
-      "id": 27,
-      "name": "Murph",
-      "line": "You said science was about admitting what we don't know.",
-      "source": "Interstellar"
-    },
-    {
-      "id": 28,
-      "name": "Neo",
-      "line": "Ever have that feeling where you're not sure if you're awake or dreaming?",
-      "source": "The Matrix"
-    },
-    {
-      "id": 29,
-      "name": "Ozymandias via David",
-      "line": "Look on my works, ye Mighty, and despair",
-      "source": "Alien: Covenant"
-    },
-    {
-      "id": 30,
-      "name": "Paul",
-      "line": "Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me.",
-      "source": "Dune"
-    },
-    {
-      "id": 31,
-      "name": "Princess Irulan",
-      "line": "A beginning is the time for taking the most delicate care that the balances are correct. This every sister of the Bene Gesserit knows.",
-      "source": "Dune"
-    },
-    {
-      "id": 32,
-      "name": "Piter De Vries",
-      "line": "It is by will alone I set my mind in motion.",
-      "source": "Dune"
-    },
-    {
-      "id": 32,
-      "name": "Princess Irulan",
-      "line": "Deep in the human unconscious is a pervasive need for a logical universe that makes sense. But the real universe is always one step beyond logic.",
-      "source": "Dune"
-    },
-    {
-      "id": 33,
-      "name": "Princess Irulan",
-      "line": "The spice extends life. The spice expands consciousness. The spice is vital to space travel.",
-      "source": "Dune"
-    },
-    {
-      "id": 34,
-      "name": "Paul",
-      "line": "It's shocking to find how many people do not believe they can learn, and how many more believe learning to be difficult.",
-      "source": "Dune"
-    },
-    {
-      "id": 35,
-      "name": "Paul",
-      "line": "He who can destroy a thing, controls a thing.",
-      "source": "Dune"
-    },
-    {
-      "id": 36,
-      "name": "Paul",
-      "line": "The eye that looks ahead to the safe course is closed forever.",
-      "source": "Dune"
-    },
-    {
-      "id": 37,
-      "name": "Jessica",
-      "line": "When we try to conceal our innermost drives, the entire being screams betrayal.",
-      "source": "Dune"
-    },
-    {
-      "id": 38,
-      "name": "Duke Leto",
-      "line": "Once you have explored a fear, it becomes less terrifying. Part of courage comes from extending our knowledge.",
-      "source": "Dune"
-    },
-    {
-      "id": 39,
-      "name": "Duke Leto",
-      "line": "It is human to have your soul brought to a crisis you did not anticipate.",
-      "source": "Dune"
-    },
-    {
-      "id": 40,
-      "name": "Gurney Halleck",
-      "line": "The slow blade penetrates the shield.",
-      "source": "Dune"
-    },
-    {
-      "id": 41,
-      "name": "Baron Harkonnen",
-      "line": "The Spice must flow.",
-      "source": "Alien: Covenant"
-    },
-    {
-      "id": 42,
-      "name": "Douglas Adams",
-      "line": "Forty-two,",
-      "source": "The Hitchhiker's Guide to the Galaxy"
-    },
-    {
-      "id": 43,
-      "name": "Jyn Erso",
-      "line": "Its not a problem if you don't look up.",
-      "source": "Star Wars, Rogue One"
-    },
-    {
-      "id": 44,
-      "name": "Jyn Erso",
-      "line": "Rebellions are built on Hope!",
-      "source": "Star Wars, Rogue One"
-    },
-    {
-      "id": 45,
-      "name": "Jyn Erso",
-      "line": "You give way to an enemy this evil with this much power and you condemn the galaxy to an eternity of submission.",
-      "source": "Star Wars, Rogue One"
-    },
-    {
-      "id": 46,
-      "name": "Chirrut",
-      "line": "There is more than one sort of prison, Captain. I sense that you carry yours wherever you go.",
-      "source": "Star Wars, Rogue One"
-    },
-    {
-      "id": 47,
-      "name": "Chirrut",
-      "line": "I'm one with the force, and the force is with me.",
-      "source": "Star Wars, Rogue One"
-    },
-    {
-      "id": 48,
-      "name": "Galen Erso",
-      "line": "You are confusing peace with terror.",
-      "source": "Star Wars, Rogue One"
-    },
-    {
-      "id": 49,
-      "name": "Arthur Dent",
-      "line": "A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.",
-      "source": "The Hitchhiker's Guide to the Galaxy"
-    },
-    {
-      "id": 50,
-      "name": "Princess Irulan",
-      "line": "What do you despise? By this are you truly known.",
-      "source": "Dune"
-    },
-    {
-      "id": 51,
-      "name": "Philip K Dick",
-      "line": "Imagine being sentient but not alive. Seeing and even knowing, but not alive. Just looking out. Recognizing but not being alive. A person can die and still go on. Sometimes what looks out at you from a person's eyes maybe died back in childhood.",
-      "source": "A Scanner Darkly"
-    },
-    {
-      "id": 52,
-      "name": "Yoda",
-      "line": "Fear leads to anger, anger leads to hate, hate leads to suffering",
-      "source": "Star Wars, The Phantom Menace"
-    },
-    {
-      "id": 53,
-      "name": "R0-GR Battle Droid",
-      "line": "Roger, Roger",
-      "source": "Star Wars, The Clone Wars"
-    },
-    {
-      "id": 54,
-      "name": "Salvor Hardin",
-      "line": "Violence is the last refuge of the incompetent.",
-      "source": "Foundation"
-    },
-    {
-      "id": 55,
-      "name": "Dr. Seldon",
-      "line": "Scientific truth is beyond loyalty and disloyalty.",
-      "source": "Foundation"
-    },
-    {
-      "id": 56,
-      "name": "Psychohistorians",
-      "line": "Childness comes almost as naturally to a man as to a child.",
-      "source": "Foundation"
-    },
-    {
-      "id": 57,
-      "name": "Ender",
-      "line": "In the moment when I truly understand my enemy, understand him well enough to defeat him, Then in that very moment, I also love him.",
-      "source": "Ender's Game"
-    },
-    {
-      "id": 58,
-      "name": "Isaac Asimov",
-      "line": "When stupidity is considered patriotism, it is unsafe to be intelligent.",
-      "source": "Foundation"
-    },
-    {
-      "id": 59,
-      "name": "George Orwell",
-      "line": "War is peace. Freedom is slavery. Ignorance is strength.",
-      "source": "1984"
-    },
-    {
-      "id": 60,
-      "name": "George Orwell",
-      "line": "Who controls the past controls the futute. Who controls the present controls the past.",
-      "source": "1984"
-    },
-    {
-      "id": 61,
-      "name": "Ender",
-      "line": "There are times when the world is rearranging itself, and at times like that, the right words can change the world.",
-      "source": "Ender's Game"
-    },
-    {
-      "id": 62,
-      "name": "Mal",
-      "line": "Admit it! You don't believe in one reality anymore",
-      "source": "Inception"
-    },
-    {
-      "id": 63,
-      "name": "Cobb",
-      "line": "You're waiting for a train",
-      "source": "Inception"
-    },
-    {
-      "id": 64,
-      "name": "Arthur C Clarke",
-      "line": "It is a bitter thought, but you must face it. The planets you may one day possess. But the stars are not for man.",
-      "source": "Childhood's End"
-    },
-    {
-      "id": 65,
-      "name": "Michele",
-      "line": "For ... years men dreamed of pacts with demons. Only now are such things possible.",
-      "source": "NeuroMancer"
-    },
-    {
-      "id": 66,
-      "name": "Stanislaw",
-      "line": "Man has gone out to explore other worlds and other civilizations without having explored his own labyrinth of dark passages and secret chambers, and without finding what lies behind doorways that he himself has sealed.",
-      "source": "Solaris"
-    },
-    {
-      "id": 67,
-      "name": "Frank Herbert",
-      "line": "Dreams are messages from the deep",
-      "source": "Dune"
-    },
-    {
-      "id": 68,
-      "name": "Young Joe",
-      "line": "Then I saw it. I saw a mom who would die for her son; a man who would kill for his wife; a boy, angry and alone, laid out in front of him the bad path. I saw it. And the path was a circle, round and round. So I changed it.",
-      "source": "Looper"
-    },
-    {
-      "id": 69,
-      "name": "Bugs",
-      "line": "The choice is an illusion. You already know what you have to do",
-      "source": "Matrix Resurrection"
-    },
-    {
-      "id": 70,
-      "name": "Trinity",
-      "line": "I know what you've been doing. I know why you hardly sleep. I know why you live alone and why, night after night, you sit at your computer. You're looking for him. I know because I was once looking for the same thing. And when he found me, he told me that I wasn't really looking for him, I was looking for an answer. It's the question that drives us, Neo. It's the question that brought you here. You know the question, just as I did.",
-      "source": "The Matrix"
-    },
-    {
-      "id": 71,
-      "name": "Ursula LeGuin",
-      "line": "When action grows unprofitable, gather information; when information grows unprofitable, sleep.",
-      "source": "The Left Hand of Darkness"
-    },
-    {
-      "id": 72,
-      "name": "George Orwell",
-      "line": "Nothing was your own except the few cubic centimetres inside your skull. ",
-      "source": "1984"
-    },
-    {
-      "id": 73,
-      "name": "William Gibson",
-      "line": "When the past is always with you, it may as well be present; and if it is present, it will be future as well.",
-      "source": "Neuroancer"
-    },
-    {
-      "id": 74,
-      "name": "Lysander",
-      "line": "From a distance, death seems the end of a story. But when you are near, when you can smell the burning skin, see the entrails, you see death for what it is. A traumatic cauterization of a life thread. No purpose. No conclusion. Just snip.",
-      "source": "Red Rising, Dark Age"
-    },
-    {
-      "id": 75,
-      "name": "Henry Hamilton",
-      "line": "You are right. But the day comes when you've had enough. Your mind can be spent, even if your body's not.",
-      "source": "In Time"
-    },
-    {
-      "id": 76,
-      "name": "Henry Hamilton",
-      "line": "For a few to be immortal, many must die.",
-      "source": "In Time"
-    },
-    {
-      "id": 77,
-      "name": "Jack Harper",
-      "line": "Earth before the war, New York before I was born, a place I've only seen pictures of. I know you, but we've never met. I'm with you but I don't know your name. I know I'm dreaming, but it feels like more than that, feels like a memory. How can that be?",
-      "source": "Oblivion"
-    },
-    {
-      "id": 78,
-      "name": "Jack Harper",
-      "line": "If we have souls, they're made of the love we share. Undimmed by time, unbound by death.",
-      "source": "Oblivion"
-    },
-    {
-      "id": 79,
-      "name": "Neil",
-      "line": "You have a future in the past. Years ago for me, years from now for you.",
-      "source": "TeneT"
-    },
-    {
-      "id": 80,
-      "name": "Protagonist",
-      "line": "We live in a twilight world.",
-      "source": "TeneT"
-    },
-    {
-      "id": 81,
-      "name": "k",
-      "line": "All the best memories are hers",
-      "source": "Blade Runner 2049"
-    },
-    {
-      "id": 82,
-      "name": "Douglas Adams",
-      "line": "Time is an illusion. Lunchtime doubly so.",
-      "source": "The Hitchhiker's Guide to the Galaxy"
-    },
-    {
-      "id": 83,
-      "name": "Leeloo",
-      "line": "Multi Pass",
-      "source": "Fifth Element"
-    },
-    {
-      "id": 84,
-      "name": "Cooper",
-      "line": "Newton’s third law. You gotta leave something behind.",
-      "source": "Interstellar"
-    },
-    {
-      "id": 85,
-      "name": "Louise",
-      "line": "I used to think this was the beginning of your story. Memory is a strange thing. It doesn't work like I thought it did. We are so bound by time, by its order.",
-      "source": "Arrival"
-    },
-    {
-      "id": 86,
-      "name": "Christopher Pike",
-      "line": "Your father was captain of a starship for 12 minutes. He saved 800 lives, including your Mother's. And yours. I dare you to do better.",
-      "source": "Star Trek 2009"
-    },
-    {
-      "id": 86,
-      "name": "Tony Stark",
-      "line": "Let's face it, this is not the worst thing you've caught me doing.",
-      "source": "Iron Man"
-    },
-    {
-      "id": 87,
-      "name": "The Bartender",
-      "line": "The one thing that this job has taught me is that truth is stranger than fiction.",
-      "source": "Predestination"
-    },
-    {
-      "id": 88,
-      "name": "Dr. Emmett Brown",
-      "line": "Marty! What in the name of Sir Isaac H. Newton happened here?",
-      "source": "Back To The Future II"
-    },
-    {
-      "id": 89,
-      "name": "Martin Collins",
-      "line": "The right information at the right time is deadlier than any weapon.",
-      "source": "Westworld"
-    },
-    {
-      "id": 90,
-      "name": "Jonathan Byres",
-      "line": "Nobody normal ever accomplished anything meaningful in this world.",
-      "source": "Stranger Things"
-    },
-    {
-      "id": 91,
-      "name": "Nemo Nobody aged 118",
-      "line": "Every path is the right path. Everything could've been anything else. And it would have just as much meaning.",
-      "source": "Mr. Nobody"
-    },
-    {
-      "id": 92,
-      "name": "Nemo Nobody Age 9",
-      "line": "You have to make the right choice. As long as you don't choose, everything remains possible.",
-      "source": "Mr. Nobody"
-    },
-    {
-      "id": 93,
-      "name": "Nemo Nobody aged 118",
-      "line": " Before he was unable to make a choice because he didn't know what would happen. Now that he knows what will happen, he is unable to make a choice.",
-      "source": "Mr. Nobody"
-    },
-    {
-      "id": 94,
-      "name": "Nemo Nobody aged 118",
-      "line": "Each of these lives is the right one! Every path is the right path. Everything could have been anything else and it would have just as much meaning.",
-      "source": "Mr. Nobody"
-    },
-    {
-      "id": 95,
-      "name": "Nemo Nobody aged 118",
-      "line": "It should be written on every schoolroom blackboard: life is a playground or nothing.",
-      "source": "Mr. Nobody"
-    },
-    {
-      "id": 96,
-      "name": "Taylor",
-      "line": "I can't help thinking somewhere in the universe there has to be something better than man. Has to be.",
-      "source": "Planet of the Apes"
-    },
-    {
-      "id": 97,
-      "name": "Thanos",
-      "line": "You could not live with your own failure. Where did that bring you? Back to me.",
-      "source": "Avengers: Endgame"
-    },
-    {
-      "id": 98,
-      "name": "Luke Skywalker",
-      "line": "No. Strike me down in anger and I'll always be with you. Just like your father.",
-      "source": "Star Wars: The Last Jedi"
-    },
-    {
-      "id": 99,
-      "name": "Tony Stark",
-      "line": "The Avengers. That's what we call ourselves; we're sort of like a team. 'Earth's Mightiest Heroes' type thing.",
-      "source": "The Avengers"
-    },
-    {
-      "id": 100,
-      "name": "Peter Quill",
-      "line": "Don't forget, I'm half-human. So that fifty percent of me that's stupid, that's a hundred percent you.",
-      "source": "Avengers: Infinity War"
-    },
-    {
-      "id": 101,
-      "name": "Kavax au Telemanus",
-      "line": "Love is the stars, and its light carries on long after death.",
-      "source": "Red Rising, Iron Gold"
-    },
-    {
-      "id": 102,
-      "name": "Apollonius Au Valii-Rath",
-      "line": "The mind is its own place, and in itself can make a heaven of hell, or a hell of heaven.",
-      "source": "Red Rising, Iron Gold"
-    },
-    {
-      "id": 103,
-      "name": "Jay",
-      "line": "We don't need AIs to destroy us, we have our own arrogance",
-      "source": "Ex-Machina"
-    },
-    {
-      "id": 104,
-      "name": "Tannhaus",
-      "line": "The beginning determines the end, which determines the beginning.",
-      "source": "Dark"
-    },
-    {
-      "id": 105,
-      "name": "Mikkel",
-      "line": "Dad, the question isn't how, the question is when",
-      "source": "Dark"
-    },
-    {
-      "id": 106,
-      "name": "Isaac Newton via Dark",
-      "line": "What we know is a drop, What we don't is an ocean.",
-      "source": "Dark"
-    },
-    {
-      "id": 107,
-      "name": "Darrow",
-      "line": "I look left Gorgons, I look right Gorgons",
-      "source": "Red Rising, Dark Age"
-    },
-    {
-      "id": 108,
-      "name": "Apollonius Au Valii-Rath",
-      "line": "A more glorious band of devils there is none. What a path you cut, like fallen seraphs amongst mortal men.",
-      "source": "Red Rising, Iron Gold"
-    },
-    {
-      "id": 109,
-      "name": "Diomedes au Raa",
-      "line": "They mistook grace for weakness. Abused his kindness. Then Fabii learned the lesson I am about to teach you.",
-      "source": "Red Rising, Iron Gold"
-    },
-    {
-      "id": 110,
-      "name": "Diomedes au Raa",
-      "line": "A man is nothing before the storm.",
-      "source": "Red Rising, Iron Gold"
-    },
-    {
-      "id": 111,
-      "name": "Deckard",
-      "line": "Sometimes to love someone, you have to be a stranger",
-      "source": "Blade Runner 2049"
-    },
-    {
-      "id": 112,
-      "name": "1899 Narrator",
-      "line": "The Brain is wider than the sky",
-      "source": "1899"
-    },
-    {
-      "id": 113,
-      "name": "1899 Narrator",
-      "line": "The Brain is deeper than the ocean",
-      "source": "1899"
-    },
-    {
-      "id": 114,
-      "name": "Mrs. Wilson",
-      "line": "They show you the world, then they tell you that you can't have it",
-      "source": "1899"
-    },
-    {
-      "id": 115,
-      "name": "Octavia Au Lune",
-      "line": "Fear those who seek your company for their own vanity. As soon as you eclipse them in the mirror, it won't be the mirror they break.",
-      "source": "Red Rising, Dark Age"
-    },
-    {
-      "id": 116,
-      "name": "Adrius Au Augustus",
-      "line": "Power is the crown that eats the head.",
-      "source": "Red Rising, Golden Son"
-    },
-    {
-      "id": 117,
-      "name": "Pax au Augustus",
-      "line": "Sometimes it's better to let a wheel squeak than break the cart trying to fix it.",
-      "source": "Red Rising, Dark Age"
-    },
-    {
-      "id": 118,
-      "name": "Virginia",
-      "line": "What good is being smarter than everyone if no one listens?",
-      "source": "Red Rising, Dark Age"
-    },
-    {
-      "id": 119,
-      "name": "Cobb",
-      "line": "She locked away a secret, deep inside herself, something she once knew to be true, but chose to forget.",
-      "source": "Inception"
-    },
-    {
-      "id": 120,
-      "name": "Atlas Au Raa",
-      "line": "For love, death is hardly the limit",
-      "source": "Red Rising, Dark Age"
-    },
-    {
-      "id": 121,
-      "name": "Sergeant Farell",
-      "line": "I see everyone is having a productive morning. You know it gives me a swell of pride knowing soldiers or your... caliber will be leading the charge tomorrow. Tip of the spear. Edge of the knife. Crack of my ass!",
-      "source": "Edge of Tomorrow"
-    },
-    {
-      "id": 122,
-      "name": "Sergeant Farell",
-      "line": "Battle is the Great Redeemer. It is the fiery crucible in which true heroes are forged. The one place where all men truly share the same rank, regardless of what kind of parasitic scum they were going in.",
-      "source": "Edge of Tomorrow"
-    },
-    {
-      "id": 123,
-      "name": "Rita Vrataski",
-      "line": "Come find me when you wake up",
-      "source": "Edge of Tomorrow"
-    },
-    {
-      "id": 124,
-      "name": "Darrow",
-      "line": "My wife is not as fickle as a flame. She is an ocean. I knew from the first that I cannot own her, cannot tame her, but I am the only storm that moves her depths and stirs her tides. And that is more than enough.",
-      "source": "Red Rising, Iron Gold"
-    },
-    {
-      "id": 125,
-      "name": "Viktor",
-      "line": "When you're going to change the world, don't ask for permission",
-      "source": "Arcane"
-    },
-    {
-      "id": 126,
-      "name": "Lorn au Arcos",
-      "line": "The old rage in colder ways, for they alone decide how to spend the young.",
-      "source": "Red Rising, Dark Age"
-    }
-  ]
+    "quotes": [
+        {
+            "id": 1,
+            "name": "Darrow",
+            "line": "Sharpened by hate. Strengthened by love.",
+            "source": "Red Rising"
+        },
+        {
+            "id": 2,
+            "name": "Darrow",
+            "line": "Funny thing, watching gods realize they've been mortal all along.",
+            "source": "Red Rising"
+        },
+        {
+            "id": 3,
+            "name": "Darrow",
+            "line": "Man cannot be freed by the same injustice that enslaved it.",
+            "source": "Red Rising"
+        },
+        {
+            "id": 4,
+            "name": "Darrow",
+            "line": "You do not follow me because I am the strongest. Pax is. You do not follow me because I am the brightest. Mustang is. You follow me because you do not know where you are going. I do.",
+            "source": "Red Rising"
+        },
+        {
+            "id": 5,
+            "name": "Darrow",
+            "line": "I’m a sheep wearing wolves’ clothing in a pack of wolves.",
+            "source": "Red Rising"
+        },
+        {
+            "id": 6,
+            "name": "Darrow",
+            "line": "Death is easy when you've already tried to find it.",
+            "source": "Red Rising"
+        },
+        {
+            "id": 7,
+            "name": "Nero au Augustus",
+            "line": "It is not funny. Steel is power. Money is power. But of all things in all the worlds, words are power",
+            "source": "Red Rising"
+        },
+        {
+            "id": 8,
+            "name": "Monologue",
+            "line": "And I wonder, in my last moments, if the planet does not mind that we wound her surface or pillage her bounty, because she knows we silly warm things are not even a breath in her cosmic life. We have grown and spread, and will rage and die. And when all that remains of us is our steel monuments and plastic idols, her winds will whisper, her sands will shift, and she will spin on and on, forgetting about the bold, hairless apes who thought they deserved immortality.",
+            "source": "Red Rising"
+        },
+        {
+            "id": 9,
+            "name": "Atlas au Raa",
+            "line": "I fear a man who believes in good, for he can excuse any evil",
+            "source": "Red Rising"
+        },
+        {
+            "id": 10,
+            "name": "Romulus au Raa",
+            "line": "I will love you till the sun dies, and when it does, I will love you in the dark.",
+            "source": "Red Rising"
+        },
+        {
+            "id": 11,
+            "name": "Darrow",
+            "line": "You are a worm who thought himself a serpent just because you slither.",
+            "source": "Red Rising"
+        },
+        {
+            "id": 12,
+            "name": "Darrow",
+            "line": "Tradition is the crown of the tyrant.",
+            "source": "Red Rising"
+        },
+        {
+            "id": 13,
+            "name": "Sefi",
+            "line": "Life is meant to be felt. Else why live? Valleys make the mountains.",
+            "source": "Red Rising"
+        },
+        {
+            "id": 14,
+            "name": "Lysander",
+            "line": "Is a man a coward if he realizes that bravery is just a myth the old tell the young so they line up for the meatgrinder?",
+            "source": "Red Rising"
+        },
+        {
+            "id": 15,
+            "name": "Lysander",
+            "line": "Only humanity could grasp the stars and them slip through its fingers for the pettiness in its heart.",
+            "source": "Red Rising, Dark Age"
+        },
+        {
+            "id": 16,
+            "name": "Darrow",
+            "line": "I once thought the greatest sin of war was violence. It isn't. The greatest sin is it requires good men to become practical.",
+            "source": "Red Rising, Dark Age"
+        },
+        {
+            "id": 17,
+            "name": "Darrow",
+            "line": "A moving mind is always fed. At rest, mine eats itself.",
+            "source": "Red Rising, Dark Age"
+        },
+        {
+            "id": 18,
+            "name": "Virginia",
+            "line": "I fear you think your strength lies in your darkness. But the measure of a man is not the fear he sows in his enemies. It is the hope he gives his friends.",
+            "source": "Red Rising, Dark Age"
+        },
+        {
+            "id": 19,
+            "name": "Octavia",
+            "line": "The tragedy of the gifted is the belief they are entitled to greatness, Lysander. As a human, you are only entitled only to death.",
+            "source": "Red Rising, Dark Age"
+        },
+        {
+            "id": 20,
+            "name": "Arthur C Clarke",
+            "line": "Evil men could be destroyed, but nothing could be done with good men who were deluded.",
+            "source": "Childhood's End"
+        },
+        {
+            "id": 21,
+            "name": "Lyria",
+            "line": "They planted us in stones, watered us with pain, and now marvel that we have thorns.",
+            "source": "Red Rising, Iron Gold"
+        },
+        {
+            "id": 22,
+            "name": "Dan Simmons",
+            "line": "It occurs to me that our survival may depend upon our talking to one another.",
+            "source": "Hyperion Cantos"
+        },
+        {
+            "id": 23,
+            "name": "Dan Simmons",
+            "line": "In such seconds of decision entire futures are made.",
+            "source": "Hyperion Cantos"
+        },
+        {
+            "id": 24,
+            "name": "Dan Simmons",
+            "line": "In twentieth-century Old Earth, a fast food chain took dead cow meat, fried it in grease, added carcinogens, wrapped it in petroleum-based foam, and sold nine hundred billion units. Human beings. Go figure.",
+            "source": "Hyperion Cantos"
+        },
+        {
+            "id": 25,
+            "name": "Dan Simmons",
+            "line": "Words are the only bullets in truth's bandolier. And poets are the snipers.",
+            "source": "Hyperion Cantos"
+        },
+        {
+            "id": 26,
+            "name": "Dan Simmons",
+            "line": "The whole planet reeks of mysticism without revelation.",
+            "source": "Hyperion Cantos"
+        },
+        {
+            "id": 27,
+            "name": "Murph",
+            "line": "You said science was about admitting what we don't know.",
+            "source": "Interstellar"
+        },
+        {
+            "id": 28,
+            "name": "Neo",
+            "line": "Ever have that feeling where you're not sure if you're awake or dreaming?",
+            "source": "The Matrix"
+        },
+        {
+            "id": 29,
+            "name": "Ozymandias via David",
+            "line": "Look on my works, ye Mighty, and despair",
+            "source": "Alien: Covenant"
+        },
+        {
+            "id": 30,
+            "name": "Paul",
+            "line": "Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me.",
+            "source": "Dune"
+        },
+        {
+            "id": 31,
+            "name": "Princess Irulan",
+            "line": "A beginning is the time for taking the most delicate care that the balances are correct. This every sister of the Bene Gesserit knows.",
+            "source": "Dune"
+        },
+        {
+            "id": 32,
+            "name": "Piter De Vries",
+            "line": "It is by will alone I set my mind in motion.",
+            "source": "Dune"
+        },
+        {
+            "id": 32,
+            "name": "Princess Irulan",
+            "line": "Deep in the human unconscious is a pervasive need for a logical universe that makes sense. But the real universe is always one step beyond logic.",
+            "source": "Dune"
+        },
+        {
+            "id": 33,
+            "name": "Princess Irulan",
+            "line": "The spice extends life. The spice expands consciousness. The spice is vital to space travel.",
+            "source": "Dune"
+        },
+        {
+            "id": 34,
+            "name": "Paul",
+            "line": "It's shocking to find how many people do not believe they can learn, and how many more believe learning to be difficult.",
+            "source": "Dune"
+        },
+        {
+            "id": 35,
+            "name": "Paul",
+            "line": "He who can destroy a thing, controls a thing.",
+            "source": "Dune"
+        },
+        {
+            "id": 36,
+            "name": "Paul",
+            "line": "The eye that looks ahead to the safe course is closed forever.",
+            "source": "Dune"
+        },
+        {
+            "id": 37,
+            "name": "Jessica",
+            "line": "When we try to conceal our innermost drives, the entire being screams betrayal.",
+            "source": "Dune"
+        },
+        {
+            "id": 38,
+            "name": "Duke Leto",
+            "line": "Once you have explored a fear, it becomes less terrifying. Part of courage comes from extending our knowledge.",
+            "source": "Dune"
+        },
+        {
+            "id": 39,
+            "name": "Duke Leto",
+            "line": "It is human to have your soul brought to a crisis you did not anticipate.",
+            "source": "Dune"
+        },
+        {
+            "id": 40,
+            "name": "Gurney Halleck",
+            "line": "The slow blade penetrates the shield.",
+            "source": "Dune"
+        },
+        {
+            "id": 41,
+            "name": "Baron Harkonnen",
+            "line": "The Spice must flow.",
+            "source": "Alien: Covenant"
+        },
+        {
+            "id": 42,
+            "name": "Douglas Adams",
+            "line": "Forty-two,",
+            "source": "The Hitchhiker's Guide to the Galaxy"
+        },
+        {
+            "id": 43,
+            "name": "Jyn Erso",
+            "line": "Its not a problem if you don't look up.",
+            "source": "Star Wars, Rogue One"
+        },
+        {
+            "id": 44,
+            "name": "Jyn Erso",
+            "line": "Rebellions are built on Hope!",
+            "source": "Star Wars, Rogue One"
+        },
+        {
+            "id": 45,
+            "name": "Jyn Erso",
+            "line": "You give way to an enemy this evil with this much power and you condemn the galaxy to an eternity of submission.",
+            "source": "Star Wars, Rogue One"
+        },
+        {
+            "id": 46,
+            "name": "Chirrut",
+            "line": "There is more than one sort of prison, Captain. I sense that you carry yours wherever you go.",
+            "source": "Star Wars, Rogue One"
+        },
+        {
+            "id": 47,
+            "name": "Chirrut",
+            "line": "I'm one with the force, and the force is with me.",
+            "source": "Star Wars, Rogue One"
+        },
+        {
+            "id": 48,
+            "name": "Galen Erso",
+            "line": "You are confusing peace with terror.",
+            "source": "Star Wars, Rogue One"
+        },
+        {
+            "id": 49,
+            "name": "Arthur Dent",
+            "line": "A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.",
+            "source": "The Hitchhiker's Guide to the Galaxy"
+        },
+        {
+            "id": 50,
+            "name": "Princess Irulan",
+            "line": "What do you despise? By this are you truly known.",
+            "source": "Dune"
+        },
+        {
+            "id": 51,
+            "name": "Philip K Dick",
+            "line": "Imagine being sentient but not alive. Seeing and even knowing, but not alive. Just looking out. Recognizing but not being alive. A person can die and still go on. Sometimes what looks out at you from a person's eyes maybe died back in childhood.",
+            "source": "A Scanner Darkly"
+        },
+        {
+            "id": 52,
+            "name": "Yoda",
+            "line": "Fear leads to anger, anger leads to hate, hate leads to suffering",
+            "source": "Star Wars, The Phantom Menace"
+        },
+        {
+            "id": 53,
+            "name": "R0-GR Battle Droid",
+            "line": "Roger, Roger",
+            "source": "Star Wars, The Clone Wars"
+        },
+        {
+            "id": 54,
+            "name": "Salvor Hardin",
+            "line": "Violence is the last refuge of the incompetent.",
+            "source": "Foundation"
+        },
+        {
+            "id": 55,
+            "name": "Dr. Seldon",
+            "line": "Scientific truth is beyond loyalty and disloyalty.",
+            "source": "Foundation"
+        },
+        {
+            "id": 56,
+            "name": "Psychohistorians",
+            "line": "Childness comes almost as naturally to a man as to a child.",
+            "source": "Foundation"
+        },
+        {
+            "id": 57,
+            "name": "Ender",
+            "line": "In the moment when I truly understand my enemy, understand him well enough to defeat him, Then in that very moment, I also love him.",
+            "source": "Ender's Game"
+        },
+        {
+            "id": 58,
+            "name": "Isaac Asimov",
+            "line": "When stupidity is considered patriotism, it is unsafe to be intelligent.",
+            "source": "Foundation"
+        },
+        {
+            "id": 59,
+            "name": "George Orwell",
+            "line": "War is peace. Freedom is slavery. Ignorance is strength.",
+            "source": "1984"
+        },
+        {
+            "id": 60,
+            "name": "George Orwell",
+            "line": "Who controls the past controls the futute. Who controls the present controls the past.",
+            "source": "1984"
+        },
+        {
+            "id": 61,
+            "name": "Ender",
+            "line": "There are times when the world is rearranging itself, and at times like that, the right words can change the world.",
+            "source": "Ender's Game"
+        },
+        {
+            "id": 62,
+            "name": "Mal",
+            "line": "Admit it! You don't believe in one reality anymore",
+            "source": "Inception"
+        },
+        {
+            "id": 63,
+            "name": "Cobb",
+            "line": "You're waiting for a train",
+            "source": "Inception"
+        },
+        {
+            "id": 64,
+            "name": "Arthur C Clarke",
+            "line": "It is a bitter thought, but you must face it. The planets you may one day possess. But the stars are not for man.",
+            "source": "Childhood's End"
+        },
+        {
+            "id": 65,
+            "name": "Michele",
+            "line": "For ... years men dreamed of pacts with demons. Only now are such things possible.",
+            "source": "NeuroMancer"
+        },
+        {
+            "id": 66,
+            "name": "Stanislaw",
+            "line": "Man has gone out to explore other worlds and other civilizations without having explored his own labyrinth of dark passages and secret chambers, and without finding what lies behind doorways that he himself has sealed.",
+            "source": "Solaris"
+        },
+        {
+            "id": 67,
+            "name": "Frank Herbert",
+            "line": "Dreams are messages from the deep",
+            "source": "Dune"
+        },
+        {
+            "id": 68,
+            "name": "Young Joe",
+            "line": "Then I saw it. I saw a mom who would die for her son; a man who would kill for his wife; a boy, angry and alone, laid out in front of him the bad path. I saw it. And the path was a circle, round and round. So I changed it.",
+            "source": "Looper"
+        },
+        {
+            "id": 69,
+            "name": "Bugs",
+            "line": "The choice is an illusion. You already know what you have to do",
+            "source": "Matrix Resurrection"
+        },
+        {
+            "id": 70,
+            "name": "Trinity",
+            "line": "I know what you've been doing. I know why you hardly sleep. I know why you live alone and why, night after night, you sit at your computer. You're looking for him. I know because I was once looking for the same thing. And when he found me, he told me that I wasn't really looking for him, I was looking for an answer. It's the question that drives us, Neo. It's the question that brought you here. You know the question, just as I did.",
+            "source": "The Matrix"
+        },
+        {
+            "id": 71,
+            "name": "Ursula LeGuin",
+            "line": "When action grows unprofitable, gather information; when information grows unprofitable, sleep.",
+            "source": "The Left Hand of Darkness"
+        },
+        {
+            "id": 72,
+            "name": "George Orwell",
+            "line": "Nothing was your own except the few cubic centimetres inside your skull. ",
+            "source": "1984"
+        },
+        {
+            "id": 73,
+            "name": "William Gibson",
+            "line": "When the past is always with you, it may as well be present; and if it is present, it will be future as well.",
+            "source": "Neuroancer"
+        },
+        {
+            "id": 74,
+            "name": "Lysander",
+            "line": "From a distance, death seems the end of a story. But when you are near, when you can smell the burning skin, see the entrails, you see death for what it is. A traumatic cauterization of a life thread. No purpose. No conclusion. Just snip.",
+            "source": "Red Rising, Dark Age"
+        },
+        {
+            "id": 75,
+            "name": "Henry Hamilton",
+            "line": "You are right. But the day comes when you've had enough. Your mind can be spent, even if your body's not.",
+            "source": "In Time"
+        },
+        {
+            "id": 76,
+            "name": "Henry Hamilton",
+            "line": "For a few to be immortal, many must die.",
+            "source": "In Time"
+        },
+        {
+            "id": 77,
+            "name": "Jack Harper",
+            "line": "Earth before the war, New York before I was born, a place I've only seen pictures of. I know you, but we've never met. I'm with you but I don't know your name. I know I'm dreaming, but it feels like more than that, feels like a memory. How can that be?",
+            "source": "Oblivion"
+        },
+        {
+            "id": 78,
+            "name": "Jack Harper",
+            "line": "If we have souls, they're made of the love we share. Undimmed by time, unbound by death.",
+            "source": "Oblivion"
+        },
+        {
+            "id": 79,
+            "name": "Neil",
+            "line": "You have a future in the past. Years ago for me, years from now for you.",
+            "source": "TeneT"
+        },
+        {
+            "id": 80,
+            "name": "Protagonist",
+            "line": "We live in a twilight world.",
+            "source": "TeneT"
+        },
+        {
+            "id": 81,
+            "name": "k",
+            "line": "All the best memories are hers",
+            "source": "Blade Runner 2049"
+        },
+        {
+            "id": 82,
+            "name": "Douglas Adams",
+            "line": "Time is an illusion. Lunchtime doubly so.",
+            "source": "The Hitchhiker's Guide to the Galaxy"
+        },
+        {
+            "id": 83,
+            "name": "Leeloo",
+            "line": "Multi Pass",
+            "source": "Fifth Element"
+        },
+        {
+            "id": 84,
+            "name": "Cooper",
+            "line": "Newton’s third law. You gotta leave something behind.",
+            "source": "Interstellar"
+        },
+        {
+            "id": 85,
+            "name": "Louise",
+            "line": "I used to think this was the beginning of your story. Memory is a strange thing. It doesn't work like I thought it did. We are so bound by time, by its order.",
+            "source": "Arrival"
+        },
+        {
+            "id": 86,
+            "name": "Christopher Pike",
+            "line": "Your father was captain of a starship for 12 minutes. He saved 800 lives, including your Mother's. And yours. I dare you to do better.",
+            "source": "Star Trek 2009"
+        },
+        {
+            "id": 86,
+            "name": "Tony Stark",
+            "line": "Let's face it, this is not the worst thing you've caught me doing.",
+            "source": "Iron Man"
+        },
+        {
+            "id": 87,
+            "name": "The Bartender",
+            "line": "The one thing that this job has taught me is that truth is stranger than fiction.",
+            "source": "Predestination"
+        },
+        {
+            "id": 88,
+            "name": "Dr. Emmett Brown",
+            "line": "Marty! What in the name of Sir Isaac H. Newton happened here?",
+            "source": "Back To The Future II"
+        },
+        {
+            "id": 89,
+            "name": "Martin Collins",
+            "line": "The right information at the right time is deadlier than any weapon.",
+            "source": "Westworld"
+        },
+        {
+            "id": 90,
+            "name": "Jonathan Byres",
+            "line": "Nobody normal ever accomplished anything meaningful in this world.",
+            "source": "Stranger Things"
+        },
+        {
+            "id": 91,
+            "name": "Nemo Nobody aged 118",
+            "line": "Every path is the right path. Everything could've been anything else. And it would have just as much meaning.",
+            "source": "Mr. Nobody"
+        },
+        {
+            "id": 92,
+            "name": "Nemo Nobody Age 9",
+            "line": "You have to make the right choice. As long as you don't choose, everything remains possible.",
+            "source": "Mr. Nobody"
+        },
+        {
+            "id": 93,
+            "name": "Nemo Nobody aged 118",
+            "line": " Before he was unable to make a choice because he didn't know what would happen. Now that he knows what will happen, he is unable to make a choice.",
+            "source": "Mr. Nobody"
+        },
+        {
+            "id": 94,
+            "name": "Nemo Nobody aged 118",
+            "line": "Each of these lives is the right one! Every path is the right path. Everything could have been anything else and it would have just as much meaning.",
+            "source": "Mr. Nobody"
+        },
+        {
+            "id": 95,
+            "name": "Nemo Nobody aged 118",
+            "line": "It should be written on every schoolroom blackboard: life is a playground or nothing.",
+            "source": "Mr. Nobody"
+        },
+        {
+            "id": 96,
+            "name": "Taylor",
+            "line": "I can't help thinking somewhere in the universe there has to be something better than man. Has to be.",
+            "source": "Planet of the Apes"
+        },
+        {
+            "id": 97,
+            "name": "Thanos",
+            "line": "You could not live with your own failure. Where did that bring you? Back to me.",
+            "source": "Avengers: Endgame"
+        },
+        {
+            "id": 98,
+            "name": "Luke Skywalker",
+            "line": "No. Strike me down in anger and I'll always be with you. Just like your father.",
+            "source": "Star Wars: The Last Jedi"
+        },
+        {
+            "id": 99,
+            "name": "Tony Stark",
+            "line": "The Avengers. That's what we call ourselves; we're sort of like a team. 'Earth's Mightiest Heroes' type thing.",
+            "source": "The Avengers"
+        },
+        {
+            "id": 100,
+            "name": "Peter Quill",
+            "line": "Don't forget, I'm half-human. So that fifty percent of me that's stupid, that's a hundred percent you.",
+            "source": "Avengers: Infinity War"
+        },
+        {
+            "id": 101,
+            "name": "Kavax au Telemanus",
+            "line": "Love is the stars, and its light carries on long after death.",
+            "source": "Red Rising, Iron Gold"
+        },
+        {
+            "id": 102,
+            "name": "Apollonius Au Valii-Rath",
+            "line": "The mind is its own place, and in itself can make a heaven of hell, or a hell of heaven.",
+            "source": "Red Rising, Iron Gold"
+        },
+        {
+            "id": 103,
+            "name": "Jay",
+            "line": "We don't need AIs to destroy us, we have our own arrogance",
+            "source": "Ex-Machina"
+        },
+        {
+            "id": 104,
+            "name": "Tannhaus",
+            "line": "The beginning determines the end, which determines the beginning.",
+            "source": "Dark"
+        },
+        {
+            "id": 105,
+            "name": "Mikkel",
+            "line": "Dad, the question isn't how, the question is when",
+            "source": "Dark"
+        },
+        {
+            "id": 106,
+            "name": "Isaac Newton via Dark",
+            "line": "What we know is a drop, What we don't is an ocean.",
+            "source": "Dark"
+        },
+        {
+            "id": 107,
+            "name": "Darrow",
+            "line": "I look left Gorgons, I look right Gorgons",
+            "source": "Red Rising, Dark Age"
+        },
+        {
+            "id": 108,
+            "name": "Apollonius Au Valii-Rath",
+            "line": "A more glorious band of devils there is none. What a path you cut, like fallen seraphs amongst mortal men.",
+            "source": "Red Rising, Iron Gold"
+        },
+        {
+            "id": 109,
+            "name": "Diomedes au Raa",
+            "line": "They mistook grace for weakness. Abused his kindness. Then Fabii learned the lesson I am about to teach you.",
+            "source": "Red Rising, Iron Gold"
+        },
+        {
+            "id": 110,
+            "name": "Diomedes au Raa",
+            "line": "A man is nothing before the storm.",
+            "source": "Red Rising, Iron Gold"
+        },
+        {
+            "id": 111,
+            "name": "Deckard",
+            "line": "Sometimes to love someone, you have to be a stranger",
+            "source": "Blade Runner 2049"
+        },
+        {
+            "id": 112,
+            "name": "1899 Narrator",
+            "line": "The Brain is wider than the sky",
+            "source": "1899"
+        },
+        {
+            "id": 113,
+            "name": "1899 Narrator",
+            "line": "The Brain is deeper than the ocean",
+            "source": "1899"
+        },
+        {
+            "id": 114,
+            "name": "Mrs. Wilson",
+            "line": "They show you the world, then they tell you that you can't have it",
+            "source": "1899"
+        },
+        {
+            "id": 115,
+            "name": "Octavia Au Lune",
+            "line": "Fear those who seek your company for their own vanity. As soon as you eclipse them in the mirror, it won't be the mirror they break.",
+            "source": "Red Rising, Dark Age"
+        },
+        {
+            "id": 116,
+            "name": "Adrius Au Augustus",
+            "line": "Power is the crown that eats the head.",
+            "source": "Red Rising, Golden Son"
+        },
+        {
+            "id": 117,
+            "name": "Pax au Augustus",
+            "line": "Sometimes it's better to let a wheel squeak than break the cart trying to fix it.",
+            "source": "Red Rising, Dark Age"
+        },
+        {
+            "id": 118,
+            "name": "Virginia",
+            "line": "What good is being smarter than everyone if no one listens?",
+            "source": "Red Rising, Dark Age"
+        },
+        {
+            "id": 119,
+            "name": "Cobb",
+            "line": "She locked away a secret, deep inside herself, something she once knew to be true, but chose to forget.",
+            "source": "Inception"
+        },
+        {
+            "id": 120,
+            "name": "Atlas Au Raa",
+            "line": "For love, death is hardly the limit",
+            "source": "Red Rising, Dark Age"
+        },
+        {
+            "id": 121,
+            "name": "Sergeant Farell",
+            "line": "I see everyone is having a productive morning. You know it gives me a swell of pride knowing soldiers or your... caliber will be leading the charge tomorrow. Tip of the spear. Edge of the knife. Crack of my ass!",
+            "source": "Edge of Tomorrow"
+        },
+        {
+            "id": 122,
+            "name": "Sergeant Farell",
+            "line": "Battle is the Great Redeemer. It is the fiery crucible in which true heroes are forged. The one place where all men truly share the same rank, regardless of what kind of parasitic scum they were going in.",
+            "source": "Edge of Tomorrow"
+        },
+        {
+            "id": 123,
+            "name": "Rita Vrataski",
+            "line": "Come find me when you wake up",
+            "source": "Edge of Tomorrow"
+        },
+        {
+            "id": 124,
+            "name": "Darrow",
+            "line": "My wife is not as fickle as a flame. She is an ocean. I knew from the first that I cannot own her, cannot tame her, but I am the only storm that moves her depths and stirs her tides. And that is more than enough.",
+            "source": "Red Rising, Iron Gold"
+        },
+        {
+            "id": 125,
+            "name": "Viktor",
+            "line": "When you're going to change the world, don't ask for permission",
+            "source": "Arcane"
+        },
+        {
+            "id": 126,
+            "name": "Lorn au Arcos",
+            "line": "The old rage in colder ways, for they alone decide how to spend the young.",
+            "source": "Red Rising, Dark Age"
+        },
+        {
+            "id": 127,
+            "name": "Dealer",
+            "line": "In the land of the blind, the one eyed mad is king",
+            "source": "Minority Report"
+        }
+    ]
 }
