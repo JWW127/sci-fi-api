@@ -773,6 +773,12 @@
             "name": "Dealer",
             "line": "In the land of the blind, the one eyed mad is king",
             "source": "Minority Report"
+        },
+        {
+            "id": 128,
+            "name": "Dr. Hineman",
+            "line": "When the chips are down, when the pressure is on, every creature on the face of the Earth is interested in one thing and one thing only, It's own survival.",
+            "source": "Minority Report"
         }
     ]
 }
