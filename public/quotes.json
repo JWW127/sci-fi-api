@@ -779,6 +779,12 @@
             "name": "Dr. Hineman",
             "line": "When the chips are down, when the pressure is on, every creature on the face of the Earth is interested in one thing and one thing only, It's own survival.",
             "source": "Minority Report"
+        },
+        {
+            "id": 129,
+            "name": "Darth Vader",
+            "line": "I find your lack of faith disturbing",
+            "source": "Star Wars, A New Hope"
         }
     ]
 }
