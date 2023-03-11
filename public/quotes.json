@@ -785,6 +785,12 @@
             "name": "Darth Vader",
             "line": "I find your lack of faith disturbing",
             "source": "Star Wars, A New Hope"
+        },
+        {
+            "id": 130,
+            "name": "Katniss",
+            "line": "Taking the kids from our districts, forcing them to kill one another while we watch - this is the Capitol's way of reminding us how totally we are at their mercy.",
+            "source": "The Hunger Games"
         }
     ]
 }
