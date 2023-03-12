@@ -791,6 +791,12 @@
             "name": "Katniss",
             "line": "Taking the kids from our districts, forcing them to kill one another while we watch - this is the Capitol's way of reminding us how totally we are at their mercy.",
             "source": "The Hunger Games"
+        },
+        {
+            "id": 131,
+            "name": "Lorne au Arcos",
+            "line": "If you're the hare play the fox, if you're the fox play the hare",
+            "source": "Red Rising, Golden Son"
         }
     ]
 }
