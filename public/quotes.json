@@ -797,6 +797,12 @@
             "name": "Lorne au Arcos",
             "line": "If you're the hare play the fox, if you're the fox play the hare",
             "source": "Red Rising, Golden Son"
+        },
+        {
+            "id": 132,
+            "name": "David",
+            "line": "Big things have small beginnings",
+            "source": "Prometheus"
         }
     ]
 }
