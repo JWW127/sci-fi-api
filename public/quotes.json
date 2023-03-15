@@ -803,6 +803,12 @@
             "name": "David",
             "line": "Big things have small beginnings",
             "source": "Prometheus"
+        },
+        {
+            "id": 133,
+            "name": "Meredith Vickers",
+            "line": "A king has his reign, and then he dies. It's inevitable. That is natural order of things.",
+            "source": "Prometheus"
         }
     ]
 }
