@@ -809,6 +809,12 @@
             "name": "Meredith Vickers",
             "line": "A king has his reign, and then he dies. It's inevitable. That is natural order of things.",
             "source": "Prometheus"
+        },
+        {
+            "id": 134,
+            "name": "Riddick",
+            "line": "Keep what you kill",
+            "source": "The Chronicles of Riddick"
         }
     ]
 }
