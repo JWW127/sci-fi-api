@@ -815,6 +815,12 @@
             "name": "Riddick",
             "line": "Keep what you kill",
             "source": "The Chronicles of Riddick"
+        },
+        {
+            "id": 135,
+            "name": "Riddick",
+            "line": "You dig up a doctor, and you pay him 20 menthol Kools to do a surgical shine job on your eyeballs",
+            "source": "Pitch Black"
         }
     ]
 }
