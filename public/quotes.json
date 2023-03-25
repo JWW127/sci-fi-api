@@ -794,7 +794,7 @@
         },
         {
             "id": 131,
-            "name": "Lorne au Arcos",
+            "name": "Lorn au Arcos",
             "line": "If you're the hare play the fox, if you're the fox play the hare",
             "source": "Red Rising, Golden Son"
         },
@@ -821,6 +821,12 @@
             "name": "Riddick",
             "line": "You dig up a doctor, and you pay him 20 menthol Kools to do a surgical shine job on your eyeballs",
             "source": "Pitch Black"
+        },
+        {
+            "id": 136,
+            "name": "Lorn au Arcos",
+            "line": "You meet a man, you know him. You meet a woman, she knows you",
+            "source": "Red Rising, Golden Son"
         }
     ]
 }
