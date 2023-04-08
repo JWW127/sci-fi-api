@@ -839,6 +839,18 @@
             "name": "Brand",
             "line": "You might have to decide between seeing your children again and the future of the human race.",
             "source": "Interstellar"
+        },
+        {
+            "id": 139,
+            "name": "Mariette",
+            "line": "More human than humans",
+            "source": "Blade Runner 2049"
+        },
+        {
+            "id": 140,
+            "name": "K",
+            "line": "And blood-black nothingness began to spin.. A system of cells interlinked within cells interlinked within cells interlinked within one stem ... And dreadfully distinct against the dark, a tall white fountain played.",
+            "source": "Blade Runner 2049"
         }
     ]
 }
