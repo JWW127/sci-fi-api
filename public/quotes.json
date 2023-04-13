@@ -863,6 +863,12 @@
             "name": "Freysa",
             "line": "You imagined it was you? Oh, you did. You did! We all wish it was us.",
             "source": "Blade Runner 2049"
+        },
+        {
+            "id": 143,
+            "name": "Ragnar Volarus",
+            "line": "A man thinks he can fly, but he is afraid to jump. A poor friend pushes him from behind, a good friend jumps with.",
+            "source": "Red Rising, Morning Star"
         }
     ]
 }
