@@ -875,6 +875,12 @@
             "name": "Ragnar Volarus",
             "line": "Even false gods do not die easily",
             "source": "Red Rising, Morning Star"
+        },
+        {
+            "id": 145,
+            "name": "Tyrell Wellick",
+            "line": "Give a man a gun and he can rob a bank, but give a man a bank, and he can rob the world.",
+            "source": "Mr. Robot"
         }
     ]
 }
