@@ -881,6 +881,12 @@
             "name": "Tyrell Wellick",
             "line": "Give a man a gun and he can rob a bank, but give a man a bank, and he can rob the world.",
             "source": "Mr. Robot"
+        },
+        {
+            "id": 146,
+            "name": "Elliot Alderson",
+            "line": "World Champion, chess master Emmanuel Lasker once said 'When you see a good move, look for a better one'",
+            "source": "Mr. Robot"
         }
     ]
 }
