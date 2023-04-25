@@ -887,6 +887,12 @@
             "name": "Elliot Alderson",
             "line": "World Champion, chess master Emmanuel Lasker once said 'When you see a good move, look for a better one'",
             "source": "Mr. Robot"
+        },
+        {
+            "id": 147,
+            "name": "Phillip Price",
+            "line": "I intend to leave a legacy, the standard of which was set by god.",
+            "source": "Mr. Robot"
         }
     ]
 }
