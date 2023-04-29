@@ -899,6 +899,12 @@
             "name": "Whiterose",
             "line": "Don't mistake my generosity, for generosity",
             "source": "Mr. Robot"
+        },
+        {
+            "id": 149,
+            "name": "Elliot",
+            "line": "You don't take down a conglomerate by shooting them in the heart, because they don't have hearts",
+            "source": "Mr. Robot"
         }
     ]
 }
