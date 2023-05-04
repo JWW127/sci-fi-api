@@ -911,6 +911,24 @@
             "name": "Kitai",
             "line": "I've heard stories of Earth, a paradise, until we destroyed it",
             "source": "After Earth"
+        },
+        {
+            "id": 151,
+            "name": "Dan Simmons",
+            "line": "The shortest route to courage is absolute ignorance",
+            "source": "Hyperion Cantos"
+        },
+        {
+            "id": 152,
+            "name": "Dan Simmons",
+            "line": "I now understand the need for faith, - pure, blind, fly-in-the-face-of-reason faith - as a small life preserver in the wild and endless sea of a universe ruled by unfeeling laws and totally indifferent to the small, reasoning beings that inhabit it.",
+            "source": "Hyperion Cantos"
+        },
+        {
+            "id": 153,
+            "name": "Dan Simmons",
+            "line": "If our god's work is to be done in our time, we must do it ourselves.",
+            "source": "Rise of Endymion"
         }
     ]
 }
