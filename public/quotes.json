@@ -929,6 +929,12 @@
             "name": "Dan Simmons",
             "line": "If our god's work is to be done in our time, we must do it ourselves.",
             "source": "Rise of Endymion"
+        },
+        {
+            "id": 154,
+            "name": "HG Wells",
+            "line": "I was no longer a master, but an animal among the animals, under the Martian heel ... the fear and empire of man had passed away.",
+            "source": "The War of The Worlds"
         }
     ]
 }
