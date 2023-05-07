@@ -935,6 +935,13 @@
             "name": "HG Wells",
             "line": "I was no longer a master, but an animal among the animals, under the Martian heel ... the fear and empire of man had passed away.",
             "source": "The War of The Worlds"
+        },
+        {
+            "id": 155,
+            "name": "HG Wells",
+            "line": "This isn't a war, It never was a war, any more than there's war between man and ants.",
+            "source": "The War of The Worlds"
         }
+
     ]
 }
