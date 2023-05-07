@@ -941,7 +941,12 @@
             "name": "HG Wells",
             "line": "This isn't a war, It never was a war, any more than there's war between man and ants.",
             "source": "The War of The Worlds"
+        },
+        {
+            "id": 156,
+            "name": "HG Wells",
+            "line": "Yet so vain is man, and so blinded by his vanity,",
+            "source": "The War of The Worlds"
         }
-
     ]
 }
