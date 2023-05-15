@@ -947,6 +947,12 @@
             "name": "HG Wells",
             "line": "Yet so vain is man, and so blinded by his vanity,",
             "source": "The War of The Worlds"
+        },
+        {
+            "id": 157,
+            "name": "HG Wells",
+            "line": "By the toll of a billion deaths man has bought his birthright of the earth, and it is his against all comers; it would still be his were the Martians ten times as mighty as they are. For neither do men live nor die in vain.",
+            "source": "The War of The Worlds"
         }
     ]
 }
