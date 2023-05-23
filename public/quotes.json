@@ -959,6 +959,12 @@
             "name": "Carl Sagan",
             "line": "For small creatures such as we the vastness is bearable only through love.",
             "source": "Contact"
+        },
+        {
+            "id": 159,
+            "name": "Professor Brand",
+            "line": "Mankind was born on Earth. It was never meant to die here.",
+            "source": "Interstellar"
         }
     ]
 }
