@@ -965,6 +965,18 @@
             "name": "Professor Brand",
             "line": "Mankind was born on Earth. It was never meant to die here.",
             "source": "Interstellar"
+        },
+        {
+            "id": 160,
+            "name": "VanderMeer",
+            "line": "Silence creates its own violence",
+            "source": "Annihilation"
+        },
+        {
+            "id": 161,
+            "name": "VanderMeer",
+            "line": "We all live in a kind of continuous dream. When we wake, it is because something, some event, some pinprick even, disturbs the edges of what we’ve taken as reality.",
+            "source": "Annihilation"
         }
     ]
 }
