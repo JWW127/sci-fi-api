@@ -977,6 +977,12 @@
             "name": "VanderMeer",
             "line": "We all live in a kind of continuous dream. When we wake, it is because something, some event, some pinprick even, disturbs the edges of what we’ve taken as reality.",
             "source": "Annihilation"
+        },
+        {
+            "id": 162,
+            "name": "BarnHardt",
+            "line": "You say we're on the brink of destruction, an you're right. But it's only on the brink that people find the will to change. Only at the precipice do we evolve. This is our moment. Don't take it from us, we are close to an answer.",
+            "source": "The Day the Earth Stood Still"
         }
     ]
 }
