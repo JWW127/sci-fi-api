@@ -983,6 +983,12 @@
             "name": "BarnHardt",
             "line": "You say we're on the brink of destruction, an you're right. But it's only on the brink that people find the will to change. Only at the precipice do we evolve. This is our moment. Don't take it from us, we are close to an answer.",
             "source": "The Day the Earth Stood Still"
+        },
+        {
+            "id": 163,
+            "name": "Hardin",
+            "line": "To succeed, planning alone is insufficient. One must improvise as well.",
+            "source": "Foundation"
         }
     ]
 }
