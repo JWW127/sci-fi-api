@@ -989,6 +989,12 @@
             "name": "Hardin",
             "line": "To succeed, planning alone is insufficient. One must improvise as well.",
             "source": "Foundation"
+        },
+        {
+            "id": 164,
+            "name": "Opening quote",
+            "line": "Only a Bright can control the power of the wand",
+            "source": "Bright"
         }
     ]
 }
