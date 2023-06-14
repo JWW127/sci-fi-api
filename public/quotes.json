@@ -995,6 +995,12 @@
             "name": "Opening quote",
             "line": "Only a Bright can control the power of the wand",
             "source": "Bright"
+        },
+        {
+            "id": 165,
+            "name": "Graff & Ender",
+            "line": "We won thats all that matters. No the way we win matters.",
+            "source": "Ender's Game"
         }
     ]
 }
