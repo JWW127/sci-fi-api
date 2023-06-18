@@ -1001,6 +1001,24 @@
             "name": "Graff & Ender",
             "line": "We won thats all that matters. No the way we win matters.",
             "source": "Ender's Game"
+        },
+        {
+            "id": 166,
+            "name": "Hardin",
+            "line": "A fire-eater must eat fire even if he has to kinle it himself.",
+            "source": "Foundation"
+        },
+        {
+            "id": 167,
+            "name": "Hardin",
+            "line": "A atom-blaster is a good weapon, but it can point both ways.",
+            "source": "Foundation"
+        },
+        {
+            "id": 168,
+            "name": "Hardin",
+            "line": "Never let your sense of morals prevent you from doing what is right!",
+            "source": "Foundation"
         }
     ]
 }
