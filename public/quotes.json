@@ -1025,6 +1025,12 @@
             "name": "Puppet Master",
             "line": "It can also be argued that DNA is nothing more than a program designed to preserve itself.",
             "source": "Ghost in the Shell"
+        },
+        {
+            "id": 170,
+            "name": "Paul",
+            "line": "May thy knife chip and shatter",
+            "source": "Dune 2 (movie)"
         }
     ]
 }
