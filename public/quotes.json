@@ -1019,6 +1019,12 @@
             "name": "Hardin",
             "line": "Never let your sense of morals prevent you from doing what is right!",
             "source": "Foundation"
+        },
+        {
+            "id": 169,
+            "name": "Puppet Master",
+            "line": "It can also be argued that DNA is nothing more than a program designed to preserve itself.",
+            "source": "Ghost in the Shell"
         }
     ]
 }
