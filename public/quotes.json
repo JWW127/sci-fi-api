@@ -1037,6 +1037,12 @@
             "name": "Cooper",
             "line": "We use to look up at the sky and wonder about our place in the stars, now we just look down and worry about our place in the dirt.",
             "source": "Interstellar"
+        },
+        {
+            "id": 172,
+            "name": "Jupe",
+            "line": "What if I told you that today you'll leave here different",
+            "source": "Nope"
         }
     ]
 }
