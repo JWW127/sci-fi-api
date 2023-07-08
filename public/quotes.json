@@ -1005,7 +1005,7 @@
         {
             "id": 166,
             "name": "Hardin",
-            "line": "A fire-eater must eat fire even if he has to kinle it himself.",
+            "line": "A fire-eater must eat fire even if he has to kindle it himself.",
             "source": "Foundation"
         },
         {
@@ -1043,6 +1043,12 @@
             "name": "Jupe",
             "line": "What if I told you that today you'll leave here different",
             "source": "Nope"
+        },
+        {
+            "id": 173,
+            "name": "Puppet Master",
+            "line": "Man is an individual only because of his intangible memory. But memory cannot be defined, yet it defines mankind.",
+            "source": "Ghost in the Shell"
         }
     ]
 }
