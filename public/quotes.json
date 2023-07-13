@@ -1049,6 +1049,12 @@
             "name": "Puppet Master",
             "line": "Man is an individual only because of his intangible memory. But memory cannot be defined, yet it defines mankind.",
             "source": "Ghost in the Shell"
+        },
+        {
+            "id": 174,
+            "name": "Mon Mothma",
+            "line": "I've learned from Palpatine. I show you the stone in my hand, you miss the knife at your throat.",
+            "source": "Andor"
         }
     ]
 }
