@@ -1055,6 +1055,12 @@
             "name": "Mon Mothma",
             "line": "I've learned from Palpatine. I show you the stone in my hand, you miss the knife at your throat.",
             "source": "Andor"
+        },
+        {
+            "id": 175,
+            "name": "Vicious",
+            "line": "When angels are forced out of heaven, they become devils. You agree, don't you spike",
+            "source": "Cowboy Bebop"
         }
     ]
 }
