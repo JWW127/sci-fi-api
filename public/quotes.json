@@ -27,7 +27,7 @@
         {
             "id": 5,
             "name": "Darrow",
-            "line": "I’m a sheep wearing wolves’ clothing in a pack of wolves.",
+            "line": "I'm a sheep wearing wolves' clothing in a pack of wolves.",
             "source": "Red Rising"
         },
         {
@@ -1066,6 +1066,12 @@
             "id": 176,
             "name": "Kino Loy",
             "line": "We will never have a better chance than this and I would rather die trying to take them down than giving them what they want!",
+            "source": "Andor"
+        },
+        {
+            "id": 177,
+            "name": "Kino Loy",
+            "line": "If we can fight half as hard as we've been working, we will be home in no time!",
             "source": "Andor"
         }
     ]
