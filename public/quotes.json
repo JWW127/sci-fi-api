@@ -1085,6 +1085,18 @@
             "name": "C-3PO",
             "line": "In the event I don't make it back, I want you to know you've been a real friend, R2. My best on in fact.",
             "source": "Star Wars, Rise of Skywalker"
+        },
+        {
+            "id": 180,
+            "name": "Nemik",
+            "line": "Remember this, Freedom is a pure idea. It occurs spontaneously and without instruction. Random acts of insurrection are occurring constantly throughout the galaxy. There are whole armies, battalions that have no idea that they’ve already enlisted in the cause",
+            "source": "Andor"
+        },
+        {
+            "id": 181,
+            "name": "Nemik",
+            "line": "Remember that the frontier of the Rebellion is everywhere. And even the smallest act of insurrection pushes our lines forward.",
+            "source": "Andor"
         }
     ]
 }
