@@ -1133,6 +1133,12 @@
             "name": "Nemik",
             "line": "Rember this: Try.",
             "source": "Andor"
+        },
+        {
+            "id": 188,
+            "name": "Palpatine",
+            "line": "Unlimited Power",
+            "source": "Star Wars, Revenge Of The Sith"
         }
     ]
 }
