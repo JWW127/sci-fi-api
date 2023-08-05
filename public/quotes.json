@@ -1139,6 +1139,12 @@
             "name": "Palpatine",
             "line": "Unlimited Power",
             "source": "Star Wars, Revenge Of The Sith"
+        },
+        {
+            "id": 189,
+            "name": "Luke Skywalker",
+            "line": "We’ll always be with you. No one’s ever really gone. A thousand generations live in you now.",
+            "source": "Star Wars, Rise of Skywalker"
         }
     ]
 }
