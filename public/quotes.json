@@ -1083,7 +1083,7 @@
         {
             "id": 179,
             "name": "C-3PO",
-            "line": "In the event I don't make it back, I want you to know you've been a real friend, R2. My best on in fact.",
+            "line": "In the event I don't make it back, I want you to know you've been a real friend, R2. My best one in fact.",
             "source": "Star Wars, Rise of Skywalker"
         },
         {
@@ -1145,6 +1145,12 @@
             "name": "Luke Skywalker",
             "line": "We'll always be with you. No one's ever really gone. A thousand generations live in you now.",
             "source": "Star Wars, Rise of Skywalker"
+        },
+        {
+            "id": 190,
+            "name": "Colonel Sharp",
+            "line": "Get off ... the nuclear...warhead.",
+            "source": "Armageddon"
         }
     ]
 }
