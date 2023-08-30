@@ -1157,6 +1157,18 @@
             "name": "Pax au Augustus",
             "line": "If love is anything it is truth, if life is anything it is struggle.",
             "source": "Red Rising, Light Bringer"
+        },
+        {
+            "id": 192,
+            "name": "Dr. Emmett Brown",
+            "line": "Roads? Where we're going, We don't need roads.",
+            "source": "Back To The Future"
+        },
+        {
+            "id": 0,
+            "name": "",
+            "line": "",
+            "source": ""
         }
     ]
 }
