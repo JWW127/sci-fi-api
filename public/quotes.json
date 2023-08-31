@@ -1165,10 +1165,17 @@
             "source": "Back To The Future"
         },
         {
+            "id": 193,
+            "name": "Tarkin",
+            "line": "Triumphing over nature means better lives for sentients, but dominance is sustained only by bringing order to chaos and establishing law where none exists.",
+            "source": "Star Wars: Tarkin"
+        },
+        {
             "id": 0,
             "name": "",
             "line": "",
             "source": ""
         }
+
     ]
 }
