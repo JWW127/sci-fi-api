@@ -2,37 +2,37 @@
     "quotes": [
         {
             "id": 1,
-            "name": "Darrow",
+            "name": "Darrow O'Lykos",
             "line": "Sharpened by hate. Strengthened by love.",
             "source": "Red Rising"
         },
         {
             "id": 2,
-            "name": "Darrow",
+            "name": "Darrow O'Lykos",
             "line": "Funny thing, watching gods realize they've been mortal all along.",
             "source": "Red Rising"
         },
         {
             "id": 3,
-            "name": "Darrow",
+            "name": "Darrow O'Lykos",
             "line": "Man cannot be freed by the same injustice that enslaved it.",
             "source": "Red Rising"
         },
         {
             "id": 4,
-            "name": "Darrow",
+            "name": "Darrow O'Lykos",
             "line": "You do not follow me because I am the strongest. Pax is. You do not follow me because I am the brightest. Mustang is. You follow me because you do not know where you are going. I do.",
             "source": "Red Rising"
         },
         {
             "id": 5,
-            "name": "Darrow",
+            "name": "Darrow O'Lykos",
             "line": "I'm a sheep wearing wolves' clothing in a pack of wolves.",
             "source": "Red Rising"
         },
         {
             "id": 6,
-            "name": "Darrow",
+            "name": "Darrow O'Lykos",
             "line": "Death is easy when you've already tried to find it.",
             "source": "Red Rising"
         },
@@ -62,13 +62,13 @@
         },
         {
             "id": 11,
-            "name": "Darrow",
+            "name": "Darrow O'Lykos",
             "line": "You are a worm who thought himself a serpent just because you slither.",
             "source": "Red Rising"
         },
         {
             "id": 12,
-            "name": "Darrow",
+            "name": "Darrow O'Lykos",
             "line": "Tradition is the crown of the tyrant.",
             "source": "Red Rising"
         },
@@ -80,37 +80,37 @@
         },
         {
             "id": 14,
-            "name": "Lysander",
+            "name": "Lysander au Lune",
             "line": "Is a man a coward if he realizes that bravery is just a myth the old tell the young so they line up for the meatgrinder?",
             "source": "Red Rising"
         },
         {
             "id": 15,
-            "name": "Lysander",
+            "name": "Lysander au Lune",
             "line": "Only humanity could grasp the stars and them slip through its fingers for the pettiness in its heart.",
             "source": "Red Rising, Dark Age"
         },
         {
             "id": 16,
-            "name": "Darrow",
+            "name": "Darrow O'Lykos",
             "line": "I once thought the greatest sin of war was violence. It isn't. The greatest sin is it requires good men to become practical.",
             "source": "Red Rising, Dark Age"
         },
         {
             "id": 17,
-            "name": "Darrow",
+            "name": "Darrow O'Lykos",
             "line": "A moving mind is always fed. At rest, mine eats itself.",
             "source": "Red Rising, Dark Age"
         },
         {
             "id": 18,
-            "name": "Virginia",
+            "name": "Virginia au Augustus",
             "line": "I fear you think your strength lies in your darkness. But the measure of a man is not the fear he sows in his enemies. It is the hope he gives his friends.",
             "source": "Red Rising, Dark Age"
         },
         {
             "id": 19,
-            "name": "Octavia",
+            "name": "Octavia au Lune",
             "line": "The tragedy of the gifted is the belief they are entitled to greatness, Lysander. As a human, you are entitled only to death.",
             "source": "Red Rising, Dark Age"
         },
@@ -122,7 +122,7 @@
         },
         {
             "id": 21,
-            "name": "Lyria",
+            "name": "Lyria O'Lagalos",
             "line": "They planted us in stones, watered us with pain, and now marvel that we have thorns.",
             "source": "Red Rising, Iron Gold"
         },
@@ -446,7 +446,7 @@
         },
         {
             "id": 74,
-            "name": "Lysander",
+            "name": "Lysander au Lune",
             "line": "From a distance, death seems the end of a story. But when you are near, when you can smell the burning skin, see the entrails, you see death for what it is. A traumatic cauterization of a life thread. No purpose. No conclusion. Just snip.",
             "source": "Red Rising, Dark Age"
         },
@@ -620,7 +620,7 @@
         },
         {
             "id": 102,
-            "name": "Apollonius Au Valii-Rath",
+            "name": "Apollonius au Valii-Rath",
             "line": "The mind is its own place, and in itself can make a heaven of hell, or a hell of heaven.",
             "source": "Red Rising, Iron Gold"
         },
@@ -650,13 +650,13 @@
         },
         {
             "id": 107,
-            "name": "Darrow",
+            "name": "Darrow O'Lykos",
             "line": "I look left Gorgons, I look right Gorgons",
             "source": "Red Rising, Dark Age"
         },
         {
             "id": 108,
-            "name": "Apollonius Au Valii-Rath",
+            "name": "Apollonius au Valii-Rath",
             "line": "A more glorious band of devils there is none. What a path you cut, like fallen seraphs amongst mortal men.",
             "source": "Red Rising, Iron Gold"
         },
@@ -698,13 +698,13 @@
         },
         {
             "id": 115,
-            "name": "Octavia Au Lune",
+            "name": "Octavia au Lune",
             "line": "Fear those who seek your company for their own vanity. As soon as you eclipse them in the mirror, it won't be the mirror they break.",
             "source": "Red Rising, Dark Age"
         },
         {
             "id": 116,
-            "name": "Adrius Au Augustus",
+            "name": "Adrius au Augustus",
             "line": "Power is the crown that eats the head.",
             "source": "Red Rising, Golden Son"
         },
@@ -716,7 +716,7 @@
         },
         {
             "id": 118,
-            "name": "Virginia",
+            "name": "Virginia au Augustus",
             "line": "What good is being smarter than everyone if no one listens?",
             "source": "Red Rising, Dark Age"
         },
@@ -728,7 +728,7 @@
         },
         {
             "id": 120,
-            "name": "Atlas Au Raa",
+            "name": "Atlas au Raa",
             "line": "For love, death is hardly the limit",
             "source": "Red Rising, Dark Age"
         },
@@ -752,7 +752,7 @@
         },
         {
             "id": 124,
-            "name": "Darrow",
+            "name": "Darrow O'Lykos",
             "line": "My wife is not as fickle as a flame. She is an ocean. I knew from the first that I cannot own her, cannot tame her, but I am the only storm that moves her depths and stirs her tides. And that is more than enough.",
             "source": "Red Rising, Iron Gold"
         },
@@ -1171,11 +1171,16 @@
             "source": "Star Wars: Tarkin"
         },
         {
+            "id": 194,
+            "name": "Fitchner au Barca",
+            "line": "In a storm, you don't tie two boats together. They'll drag each other down.",
+            "source": "Red Rising, Golden Son"
+        },
+        {
             "id": 0,
             "name": "",
             "line": "",
             "source": ""
         }
-
     ]
 }
