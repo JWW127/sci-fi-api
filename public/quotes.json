@@ -1189,10 +1189,17 @@
             "source": "Andor"
         },
         {
+            "id": 197,
+            "name": "Luthen",
+            "line": "The empire has been choking us so slowly, we've began not to notice!",
+            "source": "Andor"
+        },
+        {
             "id": 0,
             "name": "",
             "line": "",
             "source": ""
         }
+
     ]
 }
