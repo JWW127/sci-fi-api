@@ -1,12 +1,14 @@
 ## Contributing Instructions
 
-1. Create a branch (git checkout your-branch-name)
-2. Name your branch something that reflects the work you intend on changing
+1. Fork Repo
+2. Follow Specifications of Issue
 3. When ready submit a Pull Request
 
 
 ### Dos
 Have Fun
+Check for duplicate quotes
 
 ### Don'ts
-Spam
+Spam for merge
+Submit duplicate quotes
