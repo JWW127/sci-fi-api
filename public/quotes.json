@@ -1223,6 +1223,12 @@
             "name": "Vincent",
             "line": "It's funny, you work so hard, you do everything you can to get away from a place, and when you finally get your chance to leave, you find a reason to stay.",
             "source": "Gattaca"
+        },
+        {
+            "id": 203,
+            "name": "Liu Cixin",
+            "line": "Is it possible that the relationship between humanity and evil is similar to the relationship between the ocean and an iceberg floating on its surface? Both the ocean and the iceberg are made of the same material.",
+            "source": "Three-Body Problem"
         }
     ]
 }
