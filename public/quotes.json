@@ -1241,6 +1241,12 @@
             "name": "Liu Cixin",
             "line": "Death is the only lighthouse that is always lit.",
             "source": "Three-Body Problem"
+        },
+        {
+            "id": 206,
+            "name": "Whiterose",
+            "line": "If you pull the right strings, a puppet will dance any way you desire.",
+            "source": "Mr. Robot"
         }
     ]
 }
