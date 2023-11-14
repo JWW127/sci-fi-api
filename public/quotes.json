@@ -1247,6 +1247,12 @@
             "name": "Whiterose",
             "line": "If you pull the right strings, a puppet will dance any way you desire.",
             "source": "Mr. Robot"
+        },
+        {
+            "id": 207,
+            "name": "Bringman",
+            "line": "We all see what we want to see. He sees hate and fear. You have to look with better eyes than that.",
+            "source": "The Abyss"
         }
     ]
 }
