@@ -1253,6 +1253,12 @@
             "name": "Bringman",
             "line": "We all see what we want to see. He sees hate and fear. You have to look with better eyes than that.",
             "source": "The Abyss"
+        },
+        {
+            "id": 208,
+            "name": "Wayland",
+            "line": "The titan Prometheus wanted to give mankind equal footing with the gods, for that he was cast from Olympus.",
+            "source": "Prometheus"
         }
     ]
 }
