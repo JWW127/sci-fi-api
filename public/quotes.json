@@ -1259,6 +1259,12 @@
             "name": "Wayland",
             "line": "The titan Prometheus wanted to give mankind equal footing with the gods, for that he was cast from Olympus.",
             "source": "Prometheus"
+        },
+        {
+            "id": 209,
+            "name": "Kusanagi",
+            "line": "I feel fear, cold, alone, sometimes down there I even feel hope.",
+            "source": "Ghost in the Shell"
         }
     ]
 }
