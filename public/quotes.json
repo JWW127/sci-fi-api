@@ -1265,6 +1265,12 @@
             "name": "Kusanagi",
             "line": "I feel fear, cold, alone, sometimes down there I even feel hope.",
             "source": "Ghost in the Shell"
+        },
+        {
+            "id": 210,
+            "name": "Alphie",
+            "line": "Then we're the same. We can't go to heaven. Because you're not good. And I'm not a person.",
+            "source": "The Creator"
         }
     ]
 }
