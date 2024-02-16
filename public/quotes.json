@@ -807,7 +807,7 @@
         {
             "id": 133,
             "name": "Meredith Vickers",
-            "line": "A king has his reign, and then he dies. It's inevitable. That is natural order of things.",
+            "line": "A king has his reign, and then he dies. It's inevitable. That is the natural order of things.",
             "source": "Prometheus"
         },
         {
@@ -1277,6 +1277,12 @@
             "name": "Leto",
             "line": "A great man doesn't seek to lead, he is called to it, and he ansers",
             "source": "Dune (movie)"
+        },
+        {
+            "id": 212,
+            "name": "Joe Haldeman",
+            "line": "War does not determine who is right, only who is left",
+            "source": "The Forever War"
         }
     ]
 }
