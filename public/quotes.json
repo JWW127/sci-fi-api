@@ -1283,6 +1283,12 @@
             "name": "Joe Haldeman",
             "line": "War does not determine who is right, only who is left",
             "source": "The Forever War"
+        },
+        {
+            "id": 213,
+            "name": "Art3mis",
+            "line": "I was just another sad, lost, lonely soul, wasting his life on a glorified videogame.",
+            "source": "Ready Player One"
         }
     ]
 }
