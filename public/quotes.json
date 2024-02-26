@@ -1275,7 +1275,7 @@
         {
             "id": 211,
             "name": "Leto",
-            "line": "A great man doesn't seek to lead, he is called to it, and he ansers",
+            "line": "A great man doesn't seek to lead, he is called to it, and he answers",
             "source": "Dune (movie)"
         },
         {
@@ -1289,6 +1289,18 @@
             "name": "Art3mis",
             "line": "I was just another sad, lost, lonely soul, wasting his life on a glorified videogame.",
             "source": "Ready Player One"
+        },
+        {
+            "id": 214,
+            "name": "Art3mis",
+            "line": "The Facts were right there waiting for me,hidden in old books written by people who weren't afraid to be honest",
+            "source": "Ready Player One"
+        },
+        {
+            "id": 215,
+            "name": "Cortana",
+            "line": "Human kind has always looked to the stars, to the heavens for answers, sometimes you didn't like what you found there.",
+            "source": "Halo Legends"
         }
     ]
 }
