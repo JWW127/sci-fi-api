@@ -1301,6 +1301,12 @@
             "name": "Cortana",
             "line": "Human kind has always looked to the stars, to the heavens for answers, sometimes you didn't like what you found there.",
             "source": "Halo Legends"
+        },
+        {
+            "id": 216,
+            "name": "Niven",
+            "line": "On a world built to ordered specification, there was no logical reason for such a mountain to exist. Yet every world should have at least one unclimbable mountain.",
+            "source": "Ring World"
         }
     ]
 }
