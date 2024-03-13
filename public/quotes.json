@@ -1307,6 +1307,12 @@
             "name": "Niven",
             "line": "On a world built to ordered specification, there was no logical reason for such a mountain to exist. Yet every world should have at least one unclimbable mountain.",
             "source": "Ring World"
+        },
+        {
+            "id": 217,
+            "name": "Raleigh Becket",
+            "line": "To fight monsters, we created monsters of our own",
+            "source": "Pacif Rim"
         }
     ]
 }
