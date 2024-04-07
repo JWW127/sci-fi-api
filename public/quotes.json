@@ -1331,6 +1331,12 @@
             "name": "Peter Abernathy",
             "line": "Hell is empty and all devils are here.",
             "source": "Westworld"
+        },
+        {
+            "id": 221,
+            "name": "Robert Ford",
+            "line": "Everything in this world is magic, except to the magician.",
+            "source": "Westworld"
         }
     ]
 }
