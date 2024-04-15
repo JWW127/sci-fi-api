@@ -1343,6 +1343,12 @@
             "name": "Morpheus",
             "line": "Unfortunately no one can be told what the matrix is, you have to see if for yourself.",
             "source": "Matrix"
+        },
+        {
+            "id": 223,
+            "name": "Arthur C Clarke",
+            "line": "If he was indeed mad, his delusions were beautifully organized",
+            "source": "2001: A Space Odyssey"
         }
     ]
 }
