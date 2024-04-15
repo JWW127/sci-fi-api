@@ -1349,6 +1349,12 @@
             "name": "Arthur C Clarke",
             "line": "If he was indeed mad, his delusions were beautifully organized",
             "source": "2001: A Space Odyssey"
+        },
+        {
+            "id": 224,
+            "name": "Johnny Mnemonic",
+            "line": "I can carry nearly eight gigs of data in my head",
+            "source": "Johnny Mnemonic"
         }
     ]
 }
