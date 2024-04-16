@@ -1355,6 +1355,12 @@
             "name": "Johnny Mnemonic",
             "line": "I can carry nearly eight gigs of data in my head",
             "source": "Johnny Mnemonic"
+        },
+        {
+            "id": 225,
+            "name": "Rita Vrataski",
+            "line": "It knows exactly what we're going to do before we do it, and an enemy that knows the future can't lose.",
+            "source": "Edge of Tomorrow"
         }
     ]
 }
