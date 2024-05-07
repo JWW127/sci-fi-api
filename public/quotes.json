@@ -1361,6 +1361,12 @@
             "name": "Rita Vrataski",
             "line": "It knows exactly what we're going to do before we do it, and an enemy that knows the future can't lose.",
             "source": "Edge of Tomorrow"
+        },
+        {
+            "id": 226,
+            "name": "Frank",
+            "line": "Why are you wearing that stupid man suit?",
+            "source": "Donnie Darko"
         }
     ]
 }
