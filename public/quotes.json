@@ -1367,6 +1367,12 @@
             "name": "Frank",
             "line": "Why are you wearing that stupid man suit?",
             "source": "Donnie Darko"
+        },
+        {
+            "id": 227,
+            "name": "Paul",
+            "line": "Lead them to paradise.",
+            "source": "Dune 2 (movie)"
         }
     ]
 }
