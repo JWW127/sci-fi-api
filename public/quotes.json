@@ -1379,6 +1379,12 @@
             "name": "Stilgar",
             "line": "I dont care what you believe, I believe.",
             "source": "Dune 2 (movie)"
+        },
+        {
+            "id": 229,
+            "name": "Rose",
+            "line": "Thats how we win, not fighting what we hate, saving what we love.",
+            "source": "Star Wars: The Last Jedi"
         }
     ]
 }
