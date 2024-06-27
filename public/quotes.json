@@ -1385,6 +1385,12 @@
             "name": "Rose",
             "line": "Thats how we win, not fighting what we hate, saving what we love.",
             "source": "Star Wars: The Last Jedi"
+        },
+        {
+            "id": 230,
+            "name": "Zorii",
+            "line": "They win by making you think you're alone.",
+            "source": "Star Wars: The Last Jedi"
         }
     ]
 }
