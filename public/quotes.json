@@ -1312,7 +1312,7 @@
             "id": 217,
             "name": "Raleigh Becket",
             "line": "To fight monsters, we created monsters of our own",
-            "source": "Pacif Rim"
+            "source": "Pacific Rim"
         },
         {
             "id": 218,
@@ -1391,6 +1391,12 @@
             "name": "Zorii",
             "line": "They win by making you think you're alone.",
             "source": "Star Wars: The Last Jedi"
+        },
+        {
+            "id": 231,
+            "name": "Beckett",
+            "line": "Assume everyone will betray you, and you will never be disappointed.",
+            "source": "Solo: A Star Wars Story"
         }
     ]
 }
