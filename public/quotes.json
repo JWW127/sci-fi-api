@@ -1397,6 +1397,12 @@
             "name": "Beckett",
             "line": "Assume everyone will betray you, and you will never be disappointed.",
             "source": "Solo: A Star Wars Story"
+        },
+        {
+            "id": 232,
+            "name": "Niander Wallace",
+            "line": "An angel should not enter the kingdom of heaven without a gift",
+            "source": "Blade Runner 2049"
         }
     ]
 }
