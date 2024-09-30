@@ -1403,6 +1403,12 @@
             "name": "Niander Wallace",
             "line": "An angel should not enter the kingdom of heaven without a gift",
             "source": "Blade Runner 2049"
+        },
+        {
+            "id": 233,
+            "name": "Romero",
+            "line": "Okay, James Bond, let's go mess that shit up.",
+            "source": "Mr. Robot"
         }
     ]
 }
