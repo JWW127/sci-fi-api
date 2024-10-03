@@ -1409,6 +1409,12 @@
             "name": "Romero",
             "line": "Okay, James Bond, let's go mess that shit up.",
             "source": "Mr. Robot"
+        },
+        {
+            "id": 234,
+            "name": "Clifford Mcbride",
+            "line": "I found my destiny, so I abandoned my son.",
+            "source": "Ad Astra (Film)"
         }
     ]
 }
