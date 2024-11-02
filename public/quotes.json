@@ -1423,9 +1423,15 @@
             "source": "Don't Look Up"
         },
         {
-        	"id": 236,
-        	"name": "Shadout Mapes",
-        	"line": "When you have lived with prophecy for so long, the moment of revelation is a shock. Lisan Al-Gaib, The mother and the son.",
+        		"id": 236,
+        		"name": "Shadout Mapes",
+        		"line": "When you have lived with prophecy for so long, the moment of revelation is a shock. Lisan Al-Gaib, The mother and the son.",
+            "source": "Dune 1 (movie)"
+        },
+        {
+        		"id": 237,
+            "name": "Liet-Kynes",
+            "line": "Bless The Maker and His water. Bless the coming and going of Him. May His passage cleanse the world. And keep the world for His people.",
             "source": "Dune 1 (movie)"
         }
     ]
