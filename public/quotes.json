@@ -1457,6 +1457,12 @@
             "name": "David",
             "line": "Serve in Heaven or Reign in Hell",
             "source": "Alien: Covenant"
+        },
+        {
+            "id": 242,
+            "name": "Medic Credo",
+            "line": "Do not fail your Brothers, Though their bodies die, their spirit must return to the chapter. That is your charge.",
+            "source": "Warhammer 40000 Compendium"
         }
     ]
 }
