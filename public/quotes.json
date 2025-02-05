@@ -1463,6 +1463,12 @@
             "name": "Medic Credo",
             "line": "Do not fail your Brothers, Though their bodies die, their spirit must return to the chapter. That is your charge.",
             "source": "Warhammer 40000 Compendium"
+        },
+        {
+            "id": 243,
+            "name": "Nora",
+            "line": "He told me he didnt believe in time, only moments",
+            "source": "Underwater"
         }
     ]
 }
